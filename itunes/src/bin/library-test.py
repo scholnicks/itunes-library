@@ -6,11 +6,13 @@ import sys
 from itunesLibrary import library
 
 def main(path):
-    lib = library.Library.parse(path)
+    lib = library.parse(path)
     for p in lib.playlists:
         print(p.title)
         
     print lib.getPlaylist('Library')
+    print len(lib.getItemsForArtist("David Bowie"))
+    print len(lib)
     sys.exit(0)
 
 

@@ -1,27 +1,28 @@
 """
+
+See http://search.cpan.org/~dinomite/Mac-iTunes-Library-1.0/lib/Mac/iTunes/Library/XML.pm for Notes on the ridiculous format for the 
+iTunes Library XML file
 """
-import os,sys,re,logging
+import logging
 import xml.sax
 from itunesLibrary import library
 
-DICT_TYPE = 'dict'
-ARRAY_TYPE = 'array'
-STRING_TYPE = 'string'
-INTEGER_TYPE = 'integer'
-
-ITEM_ATTRIBUTES = ('integer','string','date','data')
-
+DICT_TYPE       = 'dict'
+ARRAY_TYPE      = 'array'
+STRING_TYPE     = 'string'
+INTEGER_TYPE    = 'integer'
+ITEM_ATTRIBUTES = (INTEGER_TYPE,STRING_TYPE,'date','data')
 
 class Parser(xml.sax.ContentHandler):
     def __init__(self):
         xml.sax.ContentHandler.__init__(self)
-        self.stack = []
-        self.inPlayLists = False
-        self.inTracks    = False
+        self.stack         = []
+        self.inPlayLists   = False
+        self.inTracks      = False
         self.inMusicFolder = False
         self.curKey        = ''
-        self.bufferString    = ''
-        self.item = None
+        self.bufferString  = ''
+        self.item          = None
 
     def parse(self,pathToXMLFile):
         self.filePath = pathToXMLFile
@@ -69,7 +70,7 @@ class Parser(xml.sax.ContentHandler):
             if name in ITEM_ATTRIBUTES:
                 #logging.debug("Setting {0} to {1}".format(self.curKey,self.bufferString))
                 self.item.setItunesAttribute(self.curKey,self.bufferString)
-                self.curKey = ''
+                self.curKey       = ''
                 self.bufferString = ''
             elif name == 'true':
                 self.item.setItunesAttribute(self.curKey,True)

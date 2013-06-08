@@ -2,38 +2,19 @@
 """
 
 import logging, os
+from abc import ABCMeta
 
 LOGGING_FILE = '/tmp/itunes-library.log'
 
-class ItunesItem(object):
-    def __init__(self):
-        self.itunesAttibutes = dict()
-        
-    def setItunesAttribute(self,key,value):
-        key = latin1_to_ascii(key)
-        try:
-            self.itunesAttibutes[key] = latin1_to_ascii(value)
-        except:
-            self.itunesAttibutes[key] = value
-            
-    def getItunesAttribute(self,key):
-        return self.itunesAttibutes.get(key,None)
+def parse(pathToXMLFile):
+    if os.path.exists(LOGGING_FILE):
+        os.remove(LOGGING_FILE)
+    logging.basicConfig(filename=LOGGING_FILE, level=logging.INFO)
 
-    @property
-    def title(self):
-        return self.itunesAttibutes.get('Name',None)
-
-
-class Library(ItunesItem):
-    @staticmethod
-    def parse(pathToXMLFile):
-        if os.path.exists(LOGGING_FILE):
-            os.remove(LOGGING_FILE)
-        logging.basicConfig(filename=LOGGING_FILE, level=logging.INFO)
-
-        from itunesLibrary import parser
-        return parser.Parser().parse(pathToXMLFile)
+    from itunesLibrary import parser
+    return parser.Parser().parse(pathToXMLFile)
     
+class Library(object):
     def __init__(self):
         super(Library, self).__init__()
         self.playlists = []
@@ -54,12 +35,41 @@ class Library(ItunesItem):
     def getPlaylist(self,name):
         return [p for p in self.playlists if p.title == name]
 
-
+    def getItemsForArtist(self,name):
+        return [i for i in self.items if i.artist == name]
+    
+    def __iter__(self):
+        return (i for i in self.items)
+    
+    def __len__(self):
+        return len(self.items)
         
+class ItunesItem(object):
+    __metaclass__ = ABCMeta
+    
+    def __init__(self):
+        self.itunesAttibutes = dict()
+        
+    def setItunesAttribute(self,key,value):
+        key = latin1_to_ascii(key)
+        try:
+            self.itunesAttibutes[key] = latin1_to_ascii(value)
+        except:
+            self.itunesAttibutes[key] = value
+            
+    def getItunesAttribute(self,key):
+        key = latin1_to_ascii(key)
+        return self.itunesAttibutes.get(key,None)
+
+    @property
+    def title(self):
+        return self.itunesAttibutes.get('Name',None)
+
+
 class PlayList(ItunesItem):
     def __init__(self):
         super(PlayList, self).__init__()
-        self.items     = []
+        self.items = []
 
     def addItem(self,item):
         self.items.append(item)
@@ -67,18 +77,19 @@ class PlayList(ItunesItem):
     def __str__(self):
         return "{0} : {1}".format(self.title, len(self.items))          
 
-    def __repr__(self):
-        return self.__str__()
+    def __iter__(self):
+        return (i for i in self.items)
 
-
-
+    def __len__(self):
+        return len(self.items)
+    
 class Item(ItunesItem):
     def __init__(self):
         super(Item, self).__init__()
     
     @property
     def artist(self):
-        self.getItunesAttribute('Artist')
+        return self.getItunesAttribute('Artist')
 
     @property
     def album(self):
@@ -87,8 +98,9 @@ class Item(ItunesItem):
     def __str__(self):
         return "{0} {1} {2}".format(self.artist, self.album, self.title)  
         
+# Helper Methods
         
-def latin1_to_ascii(unicrap):
+def latin1_to_ascii(unicode_input):
     """This takes a UNICODE string and replaces Latin-1 characters with
         something equivalent in 7-bit ASCII. It returns a plain ASCII string. 
         This function makes a best effort to convert Latin-1 characters into 
@@ -130,7 +142,7 @@ def latin1_to_ascii(unicrap):
         }
 
     r = ''
-    for i in unicrap:
+    for i in unicode_input:
         if xlate.has_key(ord(i)):
             r += xlate[ord(i)]
         elif ord(i) >= 0x80:
