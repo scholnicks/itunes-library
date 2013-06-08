@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-04-14T19:33:22Z</date>
+	<key>Application Version</key><string>11.0.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>889AA990B639DD4A</string>
+	<key>Tracks</key>
+	<dict>
+		<key>16111</key>
+		<dict>
+			<key>Track ID</key><integer>16111</integer>
+			<key>Name</key><string>The Next Day</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7809950</integer>
+			<key>Total Time</key><integer>206794</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:42:50Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Next Day</string>
+			<key>Persistent ID</key><string>CCD036D2B4D9695F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/01%20The%20Next%20Day.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16116</key>
+		<dict>
+			<key>Track ID</key><integer>16116</integer>
+			<key>Name</key><string>Dirty Boys</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6352802</integer>
+			<key>Total Time</key><integer>178474</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:42:51Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Dirty Boys</string>
+			<key>Persistent ID</key><string>818B9863AE9CAF20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/02%20Dirty%20Boys.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16119</key>
+		<dict>
+			<key>Track ID</key><integer>16119</integer>
+			<key>Name</key><string>The Stars (Are Out Tonight)</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8803819</integer>
+			<key>Total Time</key><integer>237131</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:42:53Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Stars (Are Out Tonight)</string>
+			<key>Persistent ID</key><string>BFED6B10580F949E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/03%20The%20Stars%20(Are%20Out%20Tonight).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16122</key>
+		<dict>
+			<key>Track ID</key><integer>16122</integer>
+			<key>Name</key><string>Love Is Lost</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9136557</integer>
+			<key>Total Time</key><integer>237600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:42:57Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Love Is Lost</string>
+			<key>Persistent ID</key><string>29F4743807E79F7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/04%20Love%20Is%20Lost.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16125</key>
+		<dict>
+			<key>Track ID</key><integer>16125</integer>
+			<key>Name</key><string>Where Are We Now?</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8813127</integer>
+			<key>Total Time</key><integer>248253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-01-08T23:14:17Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe)</string>
+			<key>Persistent ID</key><string>649EEF4BDCD655C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe)/05%20Where%20Are%20We%20Now_.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16128</key>
+		<dict>
+			<key>Track ID</key><integer>16128</integer>
+			<key>Name</key><string>Valentine's Day</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6866479</integer>
+			<key>Total Time</key><integer>182285</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:12Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Valentine's Day</string>
+			<key>Persistent ID</key><string>A03D618E19248D68</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/06%20Valentine's%20Day.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16131</key>
+		<dict>
+			<key>Track ID</key><integer>16131</integer>
+			<key>Name</key><string>If You Can See Me</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7560868</integer>
+			<key>Total Time</key><integer>192399</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:02Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>If You Can See Me</string>
+			<key>Persistent ID</key><string>DAC7EDDC58C82CAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/07%20If%20You%20Can%20See%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16134</key>
+		<dict>
+			<key>Track ID</key><integer>16134</integer>
+			<key>Name</key><string>I'd Rather Be High</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8044764</integer>
+			<key>Total Time</key><integer>224958</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:05Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>I'd Rather Be High</string>
+			<key>Persistent ID</key><string>E29815499B663149</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/08%20I'd%20Rather%20Be%20High.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16137</key>
+		<dict>
+			<key>Track ID</key><integer>16137</integer>
+			<key>Name</key><string>Boss of Me</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9411988</integer>
+			<key>Total Time</key><integer>249729</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:14Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Boss of Me</string>
+			<key>Persistent ID</key><string>B5C4825C7C5C1844</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/09%20Boss%20of%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16140</key>
+		<dict>
+			<key>Track ID</key><integer>16140</integer>
+			<key>Name</key><string>Dancing Out In Space</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8129955</integer>
+			<key>Total Time</key><integer>201739</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:24Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Dancing Out In Space</string>
+			<key>Persistent ID</key><string>4A6C1B29FC70FE8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/10%20Dancing%20Out%20In%20Space.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>71</integer>
+			<key>Playlist Persistent ID</key><string>05C84BB101935FA9</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16125</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Playlist ID</key><integer>102</integer>
+			<key>Playlist Persistent ID</key><string>68A6B92337FF54D2</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16125</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Playlist ID</key><integer>105</integer>
+			<key>Playlist Persistent ID</key><string>9C3FEDF34073AB52</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>TV Shows</string>
+			<key>Playlist ID</key><integer>108</integer>
+			<key>Playlist Persistent ID</key><string>C8CA440713F59E22</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Genius</string>
+			<key>Playlist ID</key><integer>120</integer>
+			<key>Playlist Persistent ID</key><string>7BAF5E3D5DD4C3D8</string>
+			<key>Distinguished Kind</key><integer>26</integer>
+			<key>All Items</key><true/>
+		</dict>
+	</array>
+</dict>
+</plist>

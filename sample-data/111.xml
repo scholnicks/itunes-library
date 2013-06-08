@@ -1,0 +1,4176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-04-14T19:38:15Z</date>
+	<key>Application Version</key><string>11.0.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>889AA990B639DD4A</string>
+	<key>Tracks</key>
+	<dict>
+		<key>16111</key>
+		<dict>
+			<key>Track ID</key><integer>16111</integer>
+			<key>Name</key><string>The Next Day</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7809950</integer>
+			<key>Total Time</key><integer>206794</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:42:50Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Next Day</string>
+			<key>Persistent ID</key><string>CCD036D2B4D9695F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/01%20The%20Next%20Day.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16116</key>
+		<dict>
+			<key>Track ID</key><integer>16116</integer>
+			<key>Name</key><string>Dirty Boys</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6352802</integer>
+			<key>Total Time</key><integer>178474</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:42:51Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Dirty Boys</string>
+			<key>Persistent ID</key><string>818B9863AE9CAF20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/02%20Dirty%20Boys.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16119</key>
+		<dict>
+			<key>Track ID</key><integer>16119</integer>
+			<key>Name</key><string>The Stars (Are Out Tonight)</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8803819</integer>
+			<key>Total Time</key><integer>237131</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:42:53Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Stars (Are Out Tonight)</string>
+			<key>Persistent ID</key><string>BFED6B10580F949E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/03%20The%20Stars%20(Are%20Out%20Tonight).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16122</key>
+		<dict>
+			<key>Track ID</key><integer>16122</integer>
+			<key>Name</key><string>Love Is Lost</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9136557</integer>
+			<key>Total Time</key><integer>237600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:42:57Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Love Is Lost</string>
+			<key>Persistent ID</key><string>29F4743807E79F7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/04%20Love%20Is%20Lost.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16125</key>
+		<dict>
+			<key>Track ID</key><integer>16125</integer>
+			<key>Name</key><string>Where Are We Now?</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8813127</integer>
+			<key>Total Time</key><integer>248253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-01-08T23:14:17Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe)</string>
+			<key>Persistent ID</key><string>649EEF4BDCD655C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe)/05%20Where%20Are%20We%20Now_.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16128</key>
+		<dict>
+			<key>Track ID</key><integer>16128</integer>
+			<key>Name</key><string>Valentine's Day</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6866479</integer>
+			<key>Total Time</key><integer>182285</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:12Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Valentine's Day</string>
+			<key>Persistent ID</key><string>A03D618E19248D68</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/06%20Valentine's%20Day.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16131</key>
+		<dict>
+			<key>Track ID</key><integer>16131</integer>
+			<key>Name</key><string>If You Can See Me</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7560868</integer>
+			<key>Total Time</key><integer>192399</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:02Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>If You Can See Me</string>
+			<key>Persistent ID</key><string>DAC7EDDC58C82CAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/07%20If%20You%20Can%20See%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16134</key>
+		<dict>
+			<key>Track ID</key><integer>16134</integer>
+			<key>Name</key><string>I'd Rather Be High</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8044764</integer>
+			<key>Total Time</key><integer>224958</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:05Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>I'd Rather Be High</string>
+			<key>Persistent ID</key><string>E29815499B663149</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/08%20I'd%20Rather%20Be%20High.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16137</key>
+		<dict>
+			<key>Track ID</key><integer>16137</integer>
+			<key>Name</key><string>Boss of Me</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9411988</integer>
+			<key>Total Time</key><integer>249729</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:14Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Boss of Me</string>
+			<key>Persistent ID</key><string>B5C4825C7C5C1844</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/09%20Boss%20of%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16140</key>
+		<dict>
+			<key>Track ID</key><integer>16140</integer>
+			<key>Name</key><string>Dancing Out In Space</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8129955</integer>
+			<key>Total Time</key><integer>201739</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:24Z</date>
+			<key>Date Added</key><date>2013-04-14T19:33:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Dancing Out In Space</string>
+			<key>Persistent ID</key><string>4A6C1B29FC70FE8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/10%20Dancing%20Out%20In%20Space.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16167</key>
+		<dict>
+			<key>Track ID</key><integer>16167</integer>
+			<key>Name</key><string>How Does the Grass Grow?</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9982843</integer>
+			<key>Total Time</key><integer>274413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:22Z</date>
+			<key>Date Added</key><date>2013-04-14T19:34:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>How Does the Grass Grow?</string>
+			<key>Persistent ID</key><string>60D5B556A7DE56DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/11%20How%20Does%20the%20Grass%20Grow_.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16172</key>
+		<dict>
+			<key>Track ID</key><integer>16172</integer>
+			<key>Name</key><string>(You Will) Set the World On Fire</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7671290</integer>
+			<key>Total Time</key><integer>212284</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:28Z</date>
+			<key>Date Added</key><date>2013-04-14T19:34:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>(You Will) Set the World On Fire</string>
+			<key>Persistent ID</key><string>472869FD6F2C8926</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/12%20(You%20Will)%20Set%20the%20World%20On%20Fire.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16175</key>
+		<dict>
+			<key>Track ID</key><integer>16175</integer>
+			<key>Name</key><string>You Feel So Lonely You Could Die</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9938374</integer>
+			<key>Total Time</key><integer>277711</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:36Z</date>
+			<key>Date Added</key><date>2013-04-14T19:34:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>You Feel So Lonely You Could Die</string>
+			<key>Persistent ID</key><string>8CA93C811DD243EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/13%20You%20Feel%20So%20Lonely%20You%20Could%20Die.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16178</key>
+		<dict>
+			<key>Track ID</key><integer>16178</integer>
+			<key>Name</key><string>Heat</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10235973</integer>
+			<key>Total Time</key><integer>265254</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:45Z</date>
+			<key>Date Added</key><date>2013-04-14T19:34:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Heat</string>
+			<key>Persistent ID</key><string>FBDC34C9DD08EECC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/14%20Heat.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16181</key>
+		<dict>
+			<key>Track ID</key><integer>16181</integer>
+			<key>Name</key><string>So She (Bonus Track)</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5598634</integer>
+			<key>Total Time</key><integer>151010</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:36Z</date>
+			<key>Date Added</key><date>2013-04-14T19:34:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>So She (Bonus Track)</string>
+			<key>Persistent ID</key><string>FBAFBBBDD35D8FF1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/15%20So%20She%20(Bonus%20Track).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16184</key>
+		<dict>
+			<key>Track ID</key><integer>16184</integer>
+			<key>Name</key><string>Plan (Bonus Track)</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5034356</integer>
+			<key>Total Time</key><integer>122359</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:43Z</date>
+			<key>Date Added</key><date>2013-04-14T19:34:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>Plan (Bonus Track)</string>
+			<key>Persistent ID</key><string>B0A530AC1ADC9157</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/16%20Plan%20(Bonus%20Track).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16187</key>
+		<dict>
+			<key>Track ID</key><integer>16187</integer>
+			<key>Name</key><string>I'll Take You There (Bonus Track)</string>
+			<key>Artist</key><string>David Bowie</string>
+			<key>Album Artist</key><string>David Bowie</string>
+			<key>Album</key><string>The Next Day (Deluxe Version)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6446131</integer>
+			<key>Total Time</key><integer>160993</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-03-12T23:43:44Z</date>
+			<key>Date Added</key><date>2013-04-14T19:34:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-03-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Next Day (Deluxe Version)</string>
+			<key>Sort Artist</key><string>David Bowie</string>
+			<key>Sort Name</key><string>I'll Take You There (Bonus Track)</string>
+			<key>Persistent ID</key><string>53AF33B31B9B3318</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Bowie/The%20Next%20Day%20(Deluxe%20Version)/17%20I'll%20Take%20You%20There%20(Bonus%20Track).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16197</key>
+		<dict>
+			<key>Track ID</key><integer>16197</integer>
+			<key>Name</key><string>Please Forgive Me (Live at Earl's Court, London, December 2002)</string>
+			<key>Artist</key><string>David Gray</string>
+			<key>Album Artist</key><string>David Gray</string>
+			<key>Album</key><string>Exclusive</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>7331792</integer>
+			<key>Total Time</key><integer>446495</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2003-05-04T18:39:00Z</date>
+			<key>Date Added</key><date>2013-04-14T19:35:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>94CEBEC601386488</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>File Type</key><integer>1295274016</integer>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Gray/Exclusive/01%20Please%20Forgive%20Me%20(Live%20at%20Earl's%20Court,%20London,%20December%202002).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16202</key>
+		<dict>
+			<key>Track ID</key><integer>16202</integer>
+			<key>Name</key><string>Real Love (live)</string>
+			<key>Artist</key><string>David Gray</string>
+			<key>Album Artist</key><string>David Gray</string>
+			<key>Album</key><string>Exclusive</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>4843472</integer>
+			<key>Total Time</key><integer>292709</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2003-12-25T17:04:44Z</date>
+			<key>Date Added</key><date>2013-04-14T19:35:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FE5E9A9C1B8E0EA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>File Type</key><integer>1295274016</integer>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Gray/Exclusive/02%20Real%20Love%20(live).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16205</key>
+		<dict>
+			<key>Track ID</key><integer>16205</integer>
+			<key>Name</key><string>And It Stoned Me (live)</string>
+			<key>Artist</key><string>David Gray</string>
+			<key>Album Artist</key><string>David Gray</string>
+			<key>Album</key><string>Exclusive</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>3715600</integer>
+			<key>Total Time</key><integer>223002</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2003-12-25T17:04:52Z</date>
+			<key>Date Added</key><date>2013-04-14T19:35:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C904A323662B1411</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>File Type</key><integer>1295274016</integer>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Gray/Exclusive/03%20And%20It%20Stoned%20Me%20(live).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16208</key>
+		<dict>
+			<key>Track ID</key><integer>16208</integer>
+			<key>Name</key><string>Loverboy</string>
+			<key>Artist</key><string>David Gray</string>
+			<key>Album Artist</key><string>David Gray</string>
+			<key>Album</key><string>Exclusive</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>4481664</integer>
+			<key>Total Time</key><integer>270348</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2003-05-04T18:42:31Z</date>
+			<key>Date Added</key><date>2013-04-14T19:35:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>349DECFB5855FCA9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>File Type</key><integer>1295274016</integer>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Gray/Exclusive/04%20Loverboy.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16211</key>
+		<dict>
+			<key>Track ID</key><integer>16211</integer>
+			<key>Name</key><string>The Lights of London</string>
+			<key>Artist</key><string>David Gray</string>
+			<key>Album Artist</key><string>David Gray</string>
+			<key>Album</key><string>Exclusive</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>4688304</integer>
+			<key>Total Time</key><integer>283119</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2003-05-04T18:43:46Z</date>
+			<key>Date Added</key><date>2013-04-14T19:35:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Lights of London</string>
+			<key>Persistent ID</key><string>C51BA398128F5CA1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>File Type</key><integer>1295274016</integer>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/David%20Gray/Exclusive/05%20The%20Lights%20of%20London.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16257</key>
+		<dict>
+			<key>Track ID</key><integer>16257</integer>
+			<key>Name</key><string>Take It Easy (feat. Jack Johnson &#38; John Cruz) [Live]</string>
+			<key>Artist</key><string>Jackson Browne</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jackson Browne &#38; Glenn Frey</string>
+			<key>Album</key><string>Jack Johnson &#38; Friends - Best of Kokua Festival</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8875905</integer>
+			<key>Total Time</key><integer>239293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-23T23:02:20Z</date>
+			<key>Date Added</key><date>2013-04-14T19:36:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>(Live)</string>
+			<key>Release Date</key><date>2012-04-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>415264319EF69960</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Jack%20Johnson/Jack%20Johnson%20&#38;%20Friends%20-%20Best%20of%20Kokua%20Festival/06%20Take%20It%20Easy%20(feat.%20Jack%20Johnson%20&#38;%20John%20Cruz)%20%5BLive%5D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16262</key>
+		<dict>
+			<key>Track ID</key><integer>16262</integer>
+			<key>Name</key><string>I Shall Be Released (Live)</string>
+			<key>Artist</key><string>Eddie Vedder, Jack Johnson &#38; Zach Gill</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Bob Dylan</string>
+			<key>Album</key><string>Jack Johnson &#38; Friends - Best of Kokua Festival</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10013388</integer>
+			<key>Total Time</key><integer>283586</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-04-23T23:02:19Z</date>
+			<key>Date Added</key><date>2013-04-14T19:36:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>(Live)</string>
+			<key>Release Date</key><date>2012-04-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EAB10BD34D62B6F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Jack%20Johnson/Jack%20Johnson%20&#38;%20Friends%20-%20Best%20of%20Kokua%20Festival/13%20I%20Shall%20Be%20Released%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16265</key>
+		<dict>
+			<key>Track ID</key><integer>16265</integer>
+			<key>Name</key><string>Better Together (Live)</string>
+			<key>Artist</key><string>Jack Johnson &#38; Paula Fuga</string>
+			<key>Album Artist</key><string>Jack Johnson</string>
+			<key>Composer</key><string>Jack Johnson</string>
+			<key>Album</key><string>Jack Johnson &#38; Friends - Best of Kokua Festival (A Benefit for the Kokua Hawaii Foundation)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9331738</integer>
+			<key>Total Time</key><integer>264186</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-06-21T23:01:35Z</date>
+			<key>Date Added</key><date>2013-04-14T19:36:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>(Live)</string>
+			<key>Release Date</key><date>2012-04-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>60F44E83040B3750</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Jack%20Johnson/Jack%20Johnson%20&#38;%20Friends%20-%20Best%20of%20Kokua%20Festival%20(A%20Benefit%20for%20the%20Kokua%20Hawaii%20Foundation)/01%20Better%20Together%20(Live).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16268</key>
+		<dict>
+			<key>Track ID</key><integer>16268</integer>
+			<key>Name</key><string>Upside Down</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson and Friends</string>
+			<key>Album</key><string>Sing-a-Longs and Lullabies for the Film Curious George</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>3690955</integer>
+			<key>Total Time</key><integer>210696</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-04-10T12:39:54Z</date>
+			<key>Date Added</key><date>2013-04-14T19:36:56Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2006-02-07T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB4C721ECD032445</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Jack%20Johnson%20and%20Friends/Sing-a-Longs%20and%20Lullabies%20for%20the%20Film%20Curious%20George/01%20Upside%20Down.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16271</key>
+		<dict>
+			<key>Track ID</key><integer>16271</integer>
+			<key>Name</key><string>The Sharing Song</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson and Friends</string>
+			<key>Composer</key><string>Adam Topol &#38; Zach Gill</string>
+			<key>Album</key><string>Sing-a-Longs and Lullabies for the Film Curious George</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>2967098</integer>
+			<key>Total Time</key><integer>165951</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-05-14T03:08:23Z</date>
+			<key>Date Added</key><date>2013-04-14T19:36:56Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2006-02-07T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Sharing Song</string>
+			<key>Persistent ID</key><string>AB83082C0AAC4C60</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Jack%20Johnson%20and%20Friends/Sing-a-Longs%20and%20Lullabies%20for%20the%20Film%20Curious%20George/08%20The%20Sharing%20Song.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16274</key>
+		<dict>
+			<key>Track ID</key><integer>16274</integer>
+			<key>Name</key><string>3 Rs</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album Artist</key><string>Jack Johnson and Friends</string>
+			<key>Composer</key><string>B. Dorough</string>
+			<key>Album</key><string>Sing-a-Longs and Lullabies for the Film Curious George</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>3101826</integer>
+			<key>Total Time</key><integer>174287</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-05-14T03:08:23Z</date>
+			<key>Date Added</key><date>2013-04-14T19:36:56Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2006-02-07T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7AAA7988B17D04AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Jack%20Johnson%20and%20Friends/Sing-a-Longs%20and%20Lullabies%20for%20the%20Film%20Curious%20George/09%203%20Rs.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16288</key>
+		<dict>
+			<key>Track ID</key><integer>16288</integer>
+			<key>Name</key><string>The Wake</string>
+			<key>Artist</key><string>Iq</string>
+			<key>Album Artist</key><string>Iq</string>
+			<key>Album</key><string>Forever Live</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9548851</integer>
+			<key>Total Time</key><integer>311353</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2008-07-20T14:14:03Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>243</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 205500672</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Wake</string>
+			<key>Persistent ID</key><string>572D36615ACCAAE5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Iq/Forever%20Live/01%20The%20Wake.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16293</key>
+		<dict>
+			<key>Track ID</key><integer>16293</integer>
+			<key>Name</key><string>The Darkest Hour</string>
+			<key>Artist</key><string>Iq</string>
+			<key>Album Artist</key><string>Iq</string>
+			<key>Album</key><string>Forever Live</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18563848</integer>
+			<key>Total Time</key><integer>628192</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2008-07-20T14:14:56Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>235</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 205500673</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Darkest Hour</string>
+			<key>Persistent ID</key><string>FAFAAB2E98E07F35</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Iq/Forever%20Live/02%20The%20Darkest%20Hour.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16296</key>
+		<dict>
+			<key>Track ID</key><integer>16296</integer>
+			<key>Name</key><string>Widow's Peak</string>
+			<key>Artist</key><string>Iq</string>
+			<key>Album Artist</key><string>Iq</string>
+			<key>Album</key><string>Forever Live</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17160346</integer>
+			<key>Total Time</key><integer>573413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2008-07-20T14:15:45Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>238</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 205500674</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>51EDD28F7921F4AE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Iq/Forever%20Live/03%20Widow's%20Peak.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16299</key>
+		<dict>
+			<key>Track ID</key><integer>16299</integer>
+			<key>Name</key><string>Out Of Nowhere</string>
+			<key>Artist</key><string>Iq</string>
+			<key>Album Artist</key><string>Iq</string>
+			<key>Album</key><string>Forever Live</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9791387</integer>
+			<key>Total Time</key><integer>316551</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2008-07-20T14:16:13Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>245</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 205500675</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>46DA0AF91A726299</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Iq/Forever%20Live/04%20Out%20Of%20Nowhere.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16302</key>
+		<dict>
+			<key>Track ID</key><integer>16302</integer>
+			<key>Name</key><string>Nostalgia/Falling Apart At The Seams</string>
+			<key>Artist</key><string>Iq</string>
+			<key>Album Artist</key><string>Iq</string>
+			<key>Album</key><string>Forever Live</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19744897</integer>
+			<key>Total Time</key><integer>650396</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2008-07-20T14:17:09Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>242</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 205500676</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>27B5C25F38F533F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Iq/Forever%20Live/05%20Nostalgia_Falling%20Apart%20At%20The%20Seams.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16305</key>
+		<dict>
+			<key>Track ID</key><integer>16305</integer>
+			<key>Name</key><string>The Last Human Gateway (middle section)</string>
+			<key>Artist</key><string>Iq</string>
+			<key>Album Artist</key><string>Iq</string>
+			<key>Album</key><string>Forever Live</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6870734</integer>
+			<key>Total Time</key><integer>246648</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2008-07-20T14:17:29Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>220</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 205500677</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Last Human Gateway (middle section)</string>
+			<key>Persistent ID</key><string>4BD9A70AC7B51462</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Iq/Forever%20Live/06%20The%20Last%20Human%20Gateway%20(middle%20section).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16308</key>
+		<dict>
+			<key>Track ID</key><integer>16308</integer>
+			<key>Name</key><string>Fading Senses</string>
+			<key>Artist</key><string>Iq</string>
+			<key>Album Artist</key><string>Iq</string>
+			<key>Album</key><string>Forever Live</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12250403</integer>
+			<key>Total Time</key><integer>415634</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2008-07-20T14:18:04Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>234</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 205500678</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AE7B06E0EA555793</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Iq/Forever%20Live/07%20Fading%20Senses.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16311</key>
+		<dict>
+			<key>Track ID</key><integer>16311</integer>
+			<key>Name</key><string>The Thousand Days</string>
+			<key>Artist</key><string>Iq</string>
+			<key>Album Artist</key><string>Iq</string>
+			<key>Album</key><string>Forever Live</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7966270</integer>
+			<key>Total Time</key><integer>261355</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2008-07-20T14:18:27Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>241</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 205500679</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Thousand Days</string>
+			<key>Persistent ID</key><string>9CFFAA0B5AFEEF26</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Iq/Forever%20Live/08%20The%20Thousand%20Days.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16314</key>
+		<dict>
+			<key>Track ID</key><integer>16314</integer>
+			<key>Name</key><string>Leap Of Faith</string>
+			<key>Artist</key><string>Iq</string>
+			<key>Album Artist</key><string>Iq</string>
+			<key>Album</key><string>Forever Live</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12823579</integer>
+			<key>Total Time</key><integer>428826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2008-07-20T14:19:04Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>238</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 205500680</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>50DD34E70DB88398</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Iq/Forever%20Live/09%20Leap%20Of%20Faith.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16317</key>
+		<dict>
+			<key>Track ID</key><integer>16317</integer>
+			<key>Name</key><string>Human Nature</string>
+			<key>Artist</key><string>Iq</string>
+			<key>Album Artist</key><string>Iq</string>
+			<key>Album</key><string>Forever Live</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18832824</integer>
+			<key>Total Time</key><integer>610455</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2008-07-20T14:19:58Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>246</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 205500681</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BCFEA2030B1244D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Iq/Forever%20Live/10%20Human%20Nature.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16320</key>
+		<dict>
+			<key>Track ID</key><integer>16320</integer>
+			<key>Name</key><string>Overture</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9389098</integer>
+			<key>Total Time</key><integer>274293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:09:15Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EE39B086ECF7F600</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/01%20Overture.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16323</key>
+		<dict>
+			<key>Track ID</key><integer>16323</integer>
+			<key>Name</key><string>Provider</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>3665948</integer>
+			<key>Total Time</key><integer>96400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:07:08Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D9BBEBA6177ECD58</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/02%20Provider.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16326</key>
+		<dict>
+			<key>Track ID</key><integer>16326</integer>
+			<key>Name</key><string>Subterranea</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11163319</integer>
+			<key>Total Time</key><integer>329240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:10:04Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>07951FA216994DC2</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/03%20Subterranea.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16329</key>
+		<dict>
+			<key>Track ID</key><integer>16329</integer>
+			<key>Name</key><string>Sleepless Incidental</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>12283561</integer>
+			<key>Total Time</key><integer>364026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:10:38Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>54C3774E137CDD83</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/04%20Sleepless%20Incidental.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16332</key>
+		<dict>
+			<key>Track ID</key><integer>16332</integer>
+			<key>Name</key><string>Failsafe</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>17219679</integer>
+			<key>Total Time</key><integer>517333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:13:32Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3F4E553448A8E2D6</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/05%20Failsafe.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16335</key>
+		<dict>
+			<key>Track ID</key><integer>16335</integer>
+			<key>Name</key><string>Speak My Name</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7909172</integer>
+			<key>Total Time</key><integer>228173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:11:59Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D9066DF79C5B7189</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/06%20Speak%20My%20Name.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16338</key>
+		<dict>
+			<key>Track ID</key><integer>16338</integer>
+			<key>Name</key><string>Tunnel Vision</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>14644378</integer>
+			<key>Total Time</key><integer>437333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:14:21Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4702C37EAA89C6A6</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/07%20Tunnel%20Vision.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16341</key>
+		<dict>
+			<key>Track ID</key><integer>16341</integer>
+			<key>Name</key><string>Infernal Chorus</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9520771</integer>
+			<key>Total Time</key><integer>278266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:14:22Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AB3FB8C9C741B387</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/08%20Infernal%20Chorus.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16344</key>
+		<dict>
+			<key>Track ID</key><integer>16344</integer>
+			<key>Name</key><string>King of Fools</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>4924551</integer>
+			<key>Total Time</key><integer>135493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:14:40Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>19FC2B6D7D2187CE</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/09%20King%20of%20Fools.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16347</key>
+		<dict>
+			<key>Track ID</key><integer>16347</integer>
+			<key>Name</key><string>The Sense In Sanity</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9532619</integer>
+			<key>Total Time</key><integer>278573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:16:57Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Sense In Sanity</string>
+			<key>Persistent ID</key><string>7DAE81359E5BBA72</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/10%20The%20Sense%20In%20Sanity.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16350</key>
+		<dict>
+			<key>Track ID</key><integer>16350</integer>
+			<key>Name</key><string>State of Mine</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5264514</integer>
+			<key>Total Time</key><integer>149760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:16:07Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3A79321E03ECD210</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/11%20State%20of%20Mine.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16353</key>
+		<dict>
+			<key>Track ID</key><integer>16353</integer>
+			<key>Name</key><string>Laid Low</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>3626329</integer>
+			<key>Total Time</key><integer>95240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:15:48Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ADF096C7013C2B6A</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/12%20Laid%20Low.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16356</key>
+		<dict>
+			<key>Track ID</key><integer>16356</integer>
+			<key>Name</key><string>Breathtaker</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11073286</integer>
+			<key>Total Time</key><integer>326426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:18:47Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EFA8DF4CAC44F97B</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/13%20Breathtaker.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16359</key>
+		<dict>
+			<key>Track ID</key><integer>16359</integer>
+			<key>Name</key><string>Capricorn</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11398386</integer>
+			<key>Total Time</key><integer>336533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:19:16Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>622D87EE21C0DD2E</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/14%20Capricorn.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16362</key>
+		<dict>
+			<key>Track ID</key><integer>16362</integer>
+			<key>Name</key><string>The Other Side</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5462062</integer>
+			<key>Total Time</key><integer>152173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:18:17Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Other Side</string>
+			<key>Persistent ID</key><string>390DC555168665B2</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/15%20The%20Other%20Side.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16365</key>
+		<dict>
+			<key>Track ID</key><integer>16365</integer>
+			<key>Name</key><string>Unsolid Ground</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10341231</integer>
+			<key>Total Time</key><integer>303693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:20:51Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B1433E7359CFF6BE</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/16%20Unsolid%20Ground.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16368</key>
+		<dict>
+			<key>Track ID</key><integer>16368</integer>
+			<key>Name</key><string>Somewhere In Time</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>13385988</integer>
+			<key>Total Time</key><integer>398266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:21:42Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B65020FE05427E40</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/17%20Somewhere%20In%20Time.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16371</key>
+		<dict>
+			<key>Track ID</key><integer>16371</integer>
+			<key>Name</key><string>High Waters</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5958399</integer>
+			<key>Total Time</key><integer>167600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:20:55Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB1EA9EB87C25D4F</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/18%20High%20Waters.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16374</key>
+		<dict>
+			<key>Track ID</key><integer>16374</integer>
+			<key>Name</key><string>The Narrow Margin</string>
+			<key>Artist</key><string>IQ</string>
+			<key>Album Artist</key><string>IQ</string>
+			<key>Album</key><string>Subterranea: The Concert</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>39211456</integer>
+			<key>Total Time</key><integer>1202333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-07-20T18:26:35Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-08-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Narrow Margin</string>
+			<key>Persistent ID</key><string>154B24611645C801</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/IQ/Subterranea_%20The%20Concert/19%20The%20Narrow%20Margin.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16409</key>
+		<dict>
+			<key>Track ID</key><integer>16409</integer>
+			<key>Name</key><string>All I Want Is You</string>
+			<key>Artist</key><string>Barry Louis Polisar</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Juno (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>2643924</integer>
+			<key>Total Time</key><integer>157592</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-12T16:24:24Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-12-10T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EE2B0687AEB4232A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Compilations/Juno%20(Music%20from%20the%20Motion%20Picture)/01%20All%20I%20Want%20Is%20You.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16414</key>
+		<dict>
+			<key>Track ID</key><integer>16414</integer>
+			<key>Name</key><string>A Well Respected Man</string>
+			<key>Artist</key><string>The Kinks</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Juno (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>2707869</integer>
+			<key>Total Time</key><integer>161609</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-12T16:24:26Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-12-10T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Kinks</string>
+			<key>Sort Name</key><string>Well Respected Man</string>
+			<key>Persistent ID</key><string>24298A612435CD51</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Compilations/Juno%20(Music%20from%20the%20Motion%20Picture)/03%20A%20Well%20Respected%20Man.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16417</key>
+		<dict>
+			<key>Track ID</key><integer>16417</integer>
+			<key>Name</key><string>Tire Swing</string>
+			<key>Artist</key><string>Kimya Dawson</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Juno (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>3118870</integer>
+			<key>Total Time</key><integer>187406</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-12T16:24:52Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-12-10T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DCFDB81DC8A90FC3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Compilations/Juno%20(Music%20from%20the%20Motion%20Picture)/06%20Tire%20Swing.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16420</key>
+		<dict>
+			<key>Track ID</key><integer>16420</integer>
+			<key>Name</key><string>Piazza, New York Catcher</string>
+			<key>Artist</key><string>Belle &#38; Sebastian</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Juno (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>3028009</integer>
+			<key>Total Time</key><integer>181694</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-12T16:24:53Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-12-10T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>60FFCB204C07E402</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Compilations/Juno%20(Music%20from%20the%20Motion%20Picture)/07%20Piazza,%20New%20York%20Catcher.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16423</key>
+		<dict>
+			<key>Track ID</key><integer>16423</integer>
+			<key>Name</key><string>Loose Lips</string>
+			<key>Artist</key><string>Kimya Dawson</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Juno (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>2419318</integer>
+			<key>Total Time</key><integer>143497</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-12T16:24:54Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-12-10T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F618B41B8CA1B251</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Compilations/Juno%20(Music%20from%20the%20Motion%20Picture)/08%20Loose%20Lips.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16426</key>
+		<dict>
+			<key>Track ID</key><integer>16426</integer>
+			<key>Name</key><string>Superstar</string>
+			<key>Artist</key><string>Sonic Youth</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Juno (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>4087508</integer>
+			<key>Total Time</key><integer>248196</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-12T16:25:24Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-12-10T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B3A07FCE8E6B739</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Compilations/Juno%20(Music%20from%20the%20Motion%20Picture)/09%20Superstar.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16429</key>
+		<dict>
+			<key>Track ID</key><integer>16429</integer>
+			<key>Name</key><string>Expectations (Remastered)</string>
+			<key>Artist</key><string>Belle &#38; Sebastian</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Juno (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>3564554</integer>
+			<key>Total Time</key><integer>215363</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-12T16:25:22Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-12-10T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>32A7553552E63768</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Compilations/Juno%20(Music%20from%20the%20Motion%20Picture)/11%20Expectations%20(Remastered).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16432</key>
+		<dict>
+			<key>Track ID</key><integer>16432</integer>
+			<key>Name</key><string>All the Young Dudes</string>
+			<key>Artist</key><string>Mott The Hoople</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Juno (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>3559250</integer>
+			<key>Total Time</key><integer>215038</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-12T16:25:37Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-12-10T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FC99977CF1D713B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Compilations/Juno%20(Music%20from%20the%20Motion%20Picture)/12%20All%20the%20Young%20Dudes.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16435</key>
+		<dict>
+			<key>Track ID</key><integer>16435</integer>
+			<key>Name</key><string>So Nice So Smart</string>
+			<key>Artist</key><string>Kimya Dawson</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Juno (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>2775196</integer>
+			<key>Total Time</key><integer>165835</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-12T16:25:43Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-12-10T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6F22DE985E5D1576</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Compilations/Juno%20(Music%20from%20the%20Motion%20Picture)/13%20So%20Nice%20So%20Smart.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16438</key>
+		<dict>
+			<key>Track ID</key><integer>16438</integer>
+			<key>Name</key><string>Tree Hugger</string>
+			<key>Artist</key><string>Kimya Dawson &#38; Antsy Pants</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Juno (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>3231829</integer>
+			<key>Total Time</key><integer>194488</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-12T16:26:06Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-12-10T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>774BBEAEDDA5E6AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Compilations/Juno%20(Music%20from%20the%20Motion%20Picture)/15%20Tree%20Hugger.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16441</key>
+		<dict>
+			<key>Track ID</key><integer>16441</integer>
+			<key>Name</key><string>I'm Stickng With You</string>
+			<key>Artist</key><string>The Velvet Underground</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Juno (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>2487722</integer>
+			<key>Total Time</key><integer>147793</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-12T16:26:01Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-12-10T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Velvet Underground</string>
+			<key>Persistent ID</key><string>B7C2AD3970B52084</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Compilations/Juno%20(Music%20from%20the%20Motion%20Picture)/16%20I'm%20Stickng%20With%20You.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16444</key>
+		<dict>
+			<key>Track ID</key><integer>16444</integer>
+			<key>Name</key><string>Anyone Else But You</string>
+			<key>Artist</key><string>The Moldy Peaches</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Juno (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>2993188</integer>
+			<key>Total Time</key><integer>179512</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-12T16:26:08Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-12-10T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Moldy Peaches</string>
+			<key>Persistent ID</key><string>078BE12D32332C2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Compilations/Juno%20(Music%20from%20the%20Motion%20Picture)/17%20Anyone%20Else%20But%20You.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16447</key>
+		<dict>
+			<key>Track ID</key><integer>16447</integer>
+			<key>Name</key><string>Vampire</string>
+			<key>Artist</key><string>Antsy Pants</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Juno (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>1413650</integer>
+			<key>Total Time</key><integer>80386</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-12T16:26:13Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-12-10T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A8053673F5A93195</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Compilations/Juno%20(Music%20from%20the%20Motion%20Picture)/18%20Vampire.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16450</key>
+		<dict>
+			<key>Track ID</key><integer>16450</integer>
+			<key>Name</key><string>Anyone Else But You</string>
+			<key>Artist</key><string>Michael Cera &#38; Ellen Page</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Juno (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Protected AAC audio file</string>
+			<key>Size</key><integer>1992364</integer>
+			<key>Total Time</key><integer>116702</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2008-01-12T16:26:16Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:13Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-12-10T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D6CF1D36D6180B86</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Compilations/Juno%20(Music%20from%20the%20Motion%20Picture)/19%20Anyone%20Else%20But%20You.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16469</key>
+		<dict>
+			<key>Track ID</key><integer>16469</integer>
+			<key>Name</key><string>Send a message from the heart</string>
+			<key>Artist</key><string>Karmakanic</string>
+			<key>Album Artist</key><string>Karmakanic</string>
+			<key>Album</key><string>Who's the boss in the factory?</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>38468461</integer>
+			<key>Total Time</key><integer>1171931</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-04-15T22:11:26Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:23Z</date>
+			<key>Bit Rate</key><integer>262</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 207889052</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>670A6B527E55C715</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Karmakanic/Who's%20the%20boss%20in%20the%20factory_/01%20Send%20a%20message%20from%20the%20heart.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16474</key>
+		<dict>
+			<key>Track ID</key><integer>16474</integer>
+			<key>Name</key><string>Let in Hollywood</string>
+			<key>Artist</key><string>Karmakanic</string>
+			<key>Album Artist</key><string>Karmakanic</string>
+			<key>Album</key><string>Who's the boss in the factory?</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9941220</integer>
+			<key>Total Time</key><integer>295941</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-04-15T22:11:54Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:23Z</date>
+			<key>Bit Rate</key><integer>266</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 207889053</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>762D2217B3ACFEC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Karmakanic/Who's%20the%20boss%20in%20the%20factory_/02%20Let%20in%20Hollywood.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16477</key>
+		<dict>
+			<key>Track ID</key><integer>16477</integer>
+			<key>Name</key><string>Who's the boss in the factory?</string>
+			<key>Artist</key><string>Karmakanic</string>
+			<key>Album Artist</key><string>Karmakanic</string>
+			<key>Album</key><string>Who's the boss in the factory?</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>26134153</integer>
+			<key>Total Time</key><integer>786259</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-04-15T22:13:11Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:23Z</date>
+			<key>Bit Rate</key><integer>265</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 207889054</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>327311C1B970F26E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Karmakanic/Who's%20the%20boss%20in%20the%20factory_/03%20Who's%20the%20boss%20in%20the%20factory_.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16480</key>
+		<dict>
+			<key>Track ID</key><integer>16480</integer>
+			<key>Name</key><string>Two blocks from the edge</string>
+			<key>Artist</key><string>Karmakanic</string>
+			<key>Album Artist</key><string>Karmakanic</string>
+			<key>Album</key><string>Who's the boss in the factory?</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19529635</integer>
+			<key>Total Time</key><integer>593528</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-04-15T22:14:07Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:23Z</date>
+			<key>Bit Rate</key><integer>262</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 207889055</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7B3B9A7EBA86FC82</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Karmakanic/Who's%20the%20boss%20in%20the%20factory_/04%20Two%20blocks%20from%20the%20edge.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16483</key>
+		<dict>
+			<key>Track ID</key><integer>16483</integer>
+			<key>Name</key><string>Eternally pt. 1</string>
+			<key>Artist</key><string>Karmakanic</string>
+			<key>Album Artist</key><string>Karmakanic</string>
+			<key>Album</key><string>Who's the boss in the factory?</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3385959</integer>
+			<key>Total Time</key><integer>113893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-04-15T22:14:17Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:23Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 207889056</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>87BB5CEE86AB7404</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Karmakanic/Who's%20the%20boss%20in%20the%20factory_/05%20Eternally%20pt.%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16486</key>
+		<dict>
+			<key>Track ID</key><integer>16486</integer>
+			<key>Name</key><string>Eternally pt. 2</string>
+			<key>Artist</key><string>Karmakanic</string>
+			<key>Album Artist</key><string>Karmakanic</string>
+			<key>Album</key><string>Who's the boss in the factory?</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12122685</integer>
+			<key>Total Time</key><integer>382328</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-04-15T22:14:52Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:23Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 207889057</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>74FE2B7D0DE12F67</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Karmakanic/Who's%20the%20boss%20in%20the%20factory_/06%20Eternally%20pt.%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16497</key>
+		<dict>
+			<key>Track ID</key><integer>16497</integer>
+			<key>Name</key><string>Blinded By the Light</string>
+			<key>Artist</key><string>Manfred Mann's Earth Band</string>
+			<key>Album Artist</key><string>Manfred Mann's Earth Band</string>
+			<key>Album</key><string>The Best of Manfred Mann's Earth Band</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>14492858</integer>
+			<key>Total Time</key><integer>426560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2010-05-26T21:09:34Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1975-01-01T00:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of Manfred Mann's Earth Band</string>
+			<key>Persistent ID</key><string>34713F79514286F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Manfred%20Mann's%20Earth%20Band/The%20Best%20of%20Manfred%20Mann's%20Earth%20Band/01%20Blinded%20By%20the%20Light.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16502</key>
+		<dict>
+			<key>Track ID</key><integer>16502</integer>
+			<key>Name</key><string>Spirits In The Night</string>
+			<key>Artist</key><string>Manfred Mann's Earth Band</string>
+			<key>Album</key><string>The Best of Manfred Mann's Earth Band</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6406695</integer>
+			<key>Total Time</key><integer>387446</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2010-05-26T21:10:40Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of Manfred Mann's Earth Band</string>
+			<key>Persistent ID</key><string>5E0CF27813B50CA2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Manfred%20Mann's%20Earth%20Band/The%20Best%20of%20Manfred%20Mann's%20Earth%20Band/02%20Spirits%20In%20The%20Night.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16509</key>
+		<dict>
+			<key>Track ID</key><integer>16509</integer>
+			<key>Name</key><string>Four Egos One War</string>
+			<key>Artist</key><string>Parallel or 90 Degrees</string>
+			<key>Album</key><string>A Can Of Worms</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>38322216</integer>
+			<key>Total Time</key><integer>1197479</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-12-27T13:28:03Z</date>
+			<key>Date Added</key><date>2013-04-14T19:37:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Can Of Worms</string>
+			<key>Persistent ID</key><string>F233E73002D4CB41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Parallel%20or%2090%20Degrees/A%20Can%20Of%20Worms/03%20Four%20Egos%20One%20War.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16517</key>
+		<dict>
+			<key>Track ID</key><integer>16517</integer>
+			<key>Name</key><string>Occam's Razor</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>4396467</integer>
+			<key>Total Time</key><integer>118016</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:37:38Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>24E2455DB5FD2104</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/01%20Occam's%20Razor.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16522</key>
+		<dict>
+			<key>Track ID</key><integer>16522</integer>
+			<key>Name</key><string>The Blind House</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>12381450</integer>
+			<key>Total Time</key><integer>346934</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:38:22Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Sort Name</key><string>Blind House</string>
+			<key>Persistent ID</key><string>997BD6157166F0A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/02%20The%20Blind%20House.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16525</key>
+		<dict>
+			<key>Track ID</key><integer>16525</integer>
+			<key>Name</key><string>Great Expectations</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>3454396</integer>
+			<key>Total Time</key><integer>86180</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:37:21Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>BEBEEB9E01EE444C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/03%20Great%20Expectations.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16528</key>
+		<dict>
+			<key>Track ID</key><integer>16528</integer>
+			<key>Name</key><string>Kneel and Disconnect</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>4571800</integer>
+			<key>Total Time</key><integer>123001</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:38:09Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>6EB4FE90C08C9C1C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/04%20Kneel%20and%20Disconnect.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16531</key>
+		<dict>
+			<key>Track ID</key><integer>16531</integer>
+			<key>Name</key><string>Drawing the Line</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9977914</integer>
+			<key>Total Time</key><integer>283143</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:39:16Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>C368630291ADD780</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/05%20Drawing%20the%20Line.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16534</key>
+		<dict>
+			<key>Track ID</key><integer>16534</integer>
+			<key>Name</key><string>The Incident</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11610188</integer>
+			<key>Total Time</key><integer>319936</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:39:38Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Sort Name</key><string>Incident</string>
+			<key>Persistent ID</key><string>B32278BE1083E66B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/06%20The%20Incident.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16537</key>
+		<dict>
+			<key>Track ID</key><integer>16537</integer>
+			<key>Name</key><string>Your Unpleasant Family</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>4229951</integer>
+			<key>Total Time</key><integer>108423</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:39:04Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>3CCB96055282ADD9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/07%20Your%20Unpleasant%20Family.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16540</key>
+		<dict>
+			<key>Track ID</key><integer>16540</integer>
+			<key>Name</key><string>The Yellow Windows of the Evening Train</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>4492637</integer>
+			<key>Total Time</key><integer>120053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:39:58Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Sort Name</key><string>Yellow Windows of the Evening Train</string>
+			<key>Persistent ID</key><string>C2438F8E3972D8CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/08%20The%20Yellow%20Windows%20of%20the%20Evening%20Train.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16543</key>
+		<dict>
+			<key>Track ID</key><integer>16543</integer>
+			<key>Name</key><string>Time Flies</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>24958292</integer>
+			<key>Total Time</key><integer>700594</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:42:24Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>E4BA0980AC8B2AAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/09%20Time%20Flies.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16546</key>
+		<dict>
+			<key>Track ID</key><integer>16546</integer>
+			<key>Name</key><string>Degree Zero of Liberty</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>4042886</integer>
+			<key>Total Time</key><integer>105006</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:40:22Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>D7A67A9B764BF387</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/10%20Degree%20Zero%20of%20Liberty.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16549</key>
+		<dict>
+			<key>Track ID</key><integer>16549</integer>
+			<key>Name</key><string>Octane Twisted</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Porcupine Tree</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11111907</integer>
+			<key>Total Time</key><integer>303094</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:41:31Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>7793F5AF748CBEA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/11%20Octane%20Twisted.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16552</key>
+		<dict>
+			<key>Track ID</key><integer>16552</integer>
+			<key>Name</key><string>The Seance</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5978334</integer>
+			<key>Total Time</key><integer>159150</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:41:21Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Sort Name</key><string>Seance</string>
+			<key>Persistent ID</key><string>8477BA945EC7B537</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/12%20The%20Seance.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16555</key>
+		<dict>
+			<key>Track ID</key><integer>16555</integer>
+			<key>Name</key><string>Circle of Manias</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Porcupine Tree</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5539163</integer>
+			<key>Total Time</key><integer>138021</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:42:20Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>7D026F94F3F515C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/13%20Circle%20of%20Manias.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16558</key>
+		<dict>
+			<key>Track ID</key><integer>16558</integer>
+			<key>Name</key><string>I Drive the Hearse</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>14356132</integer>
+			<key>Total Time</key><integer>404683</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:43:38Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>539DB1F24D78D3EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/14%20I%20Drive%20the%20Hearse.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16561</key>
+		<dict>
+			<key>Track ID</key><integer>16561</integer>
+			<key>Name</key><string>Flicker</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Porcupine Tree</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8318704</integer>
+			<key>Total Time</key><integer>222259</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:43:32Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>BE3754D72F0AAE59</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/15%20Flicker.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16564</key>
+		<dict>
+			<key>Track ID</key><integer>16564</integer>
+			<key>Name</key><string>Bonnie the Cat</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Porcupine Tree</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>12498526</integer>
+			<key>Total Time</key><integer>344951</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:43:55Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>186D96CF00C2FBF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/16%20Bonnie%20the%20Cat.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16567</key>
+		<dict>
+			<key>Track ID</key><integer>16567</integer>
+			<key>Name</key><string>Black Dahlia</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Richard Barbieri</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8021697</integer>
+			<key>Total Time</key><integer>220088</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:44:38Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>9FFA644421420F56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/17%20Black%20Dahlia.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16570</key>
+		<dict>
+			<key>Track ID</key><integer>16570</integer>
+			<key>Name</key><string>Remember Me Lover</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>15998884</integer>
+			<key>Total Time</key><integer>454164</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:45:45Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>82C862F1A9A6A596</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/18%20Remember%20Me%20Lover.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16573</key>
+		<dict>
+			<key>Track ID</key><integer>16573</integer>
+			<key>Name</key><string>Way Out of Here (Live In Tilburg)</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Porcupine Tree</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>16426413</integer>
+			<key>Total Time</key><integer>468956</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:46:20Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>B150D2A9B952572B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/19%20Way%20Out%20of%20Here%20(Live%20In%20Tilburg).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16576</key>
+		<dict>
+			<key>Track ID</key><integer>16576</integer>
+			<key>Name</key><string>What Happens Now? (Live In Tilburg)</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Porcupine Tree</string>
+			<key>Album</key><string>The Incident (Special Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>17267864</integer>
+			<key>Total Time</key><integer>487035</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-09-20T21:46:34Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-09-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident (Special Edition)</string>
+			<key>Persistent ID</key><string>3AE0A7A1F8727E24</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/The%20Incident%20(Special%20Edition)/20%20What%20Happens%20Now_%20(Live%20In%20Tilburg).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16579</key>
+		<dict>
+			<key>Track ID</key><integer>16579</integer>
+			<key>Name</key><string>Even Less</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Warszawa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>15266039</integer>
+			<key>Total Time</key><integer>456653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-06T14:37:41Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-01-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>41F2E083A68C52B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/Warszawa/01%20Even%20Less.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16582</key>
+		<dict>
+			<key>Track ID</key><integer>16582</integer>
+			<key>Name</key><string>Slave Called Shiver</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Warszawa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10495831</integer>
+			<key>Total Time</key><integer>308506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-06T14:35:34Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-01-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ED2353AA3C9508E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/Warszawa/02%20Slave%20Called%20Shiver.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16585</key>
+		<dict>
+			<key>Track ID</key><integer>16585</integer>
+			<key>Name</key><string>Shesmovedon</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Warszawa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10926640</integer>
+			<key>Total Time</key><integer>321893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-06T14:36:12Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-01-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2ADA18A2E8DDE92E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/Warszawa/03%20Shesmovedon.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16588</key>
+		<dict>
+			<key>Track ID</key><integer>16588</integer>
+			<key>Name</key><string>Last Chance to Evacuate Planet Earth Before It Is Recylced</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Warszawa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10265726</integer>
+			<key>Total Time</key><integer>301360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-06T14:38:14Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-01-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3AA915F68DC2CDCA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/Warszawa/04%20Last%20Chance%20to%20Evacuate%20Planet%20Earth%20Before%20It%20Is%20Recylced.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16591</key>
+		<dict>
+			<key>Track ID</key><integer>16591</integer>
+			<key>Name</key><string>Lightbulb Sun</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Warszawa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>12143124</integer>
+			<key>Total Time</key><integer>359653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-06T14:38:39Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-01-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>46C21E5BB3410CC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/Warszawa/05%20Lightbulb%20Sun.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16594</key>
+		<dict>
+			<key>Track ID</key><integer>16594</integer>
+			<key>Name</key><string>Russia On Ice</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Warszawa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>24590330</integer>
+			<key>Total Time</key><integer>746240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-06T14:43:30Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-01-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0FD28E1281B52DE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/Warszawa/06%20Russia%20On%20Ice.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16597</key>
+		<dict>
+			<key>Track ID</key><integer>16597</integer>
+			<key>Name</key><string>Where We Would Be</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Warszawa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7649549</integer>
+			<key>Total Time</key><integer>220120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-06T14:39:55Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-01-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F832AF9498473025</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/Warszawa/07%20Where%20We%20Would%20Be.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16600</key>
+		<dict>
+			<key>Track ID</key><integer>16600</integer>
+			<key>Name</key><string>Hatesong</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Warszawa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>17208551</integer>
+			<key>Total Time</key><integer>516973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-06T14:43:03Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-01-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3464E7871A3E3A9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/Warszawa/08%20Hatesong.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16603</key>
+		<dict>
+			<key>Track ID</key><integer>16603</integer>
+			<key>Name</key><string>Stop Swimming</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Warszawa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>14350329</integer>
+			<key>Total Time</key><integer>428213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-06T14:43:12Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-01-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A68180BB4FC73C8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/Warszawa/09%20Stop%20Swimming.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16606</key>
+		<dict>
+			<key>Track ID</key><integer>16606</integer>
+			<key>Name</key><string>Voyage 34</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Warszawa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>24939584</integer>
+			<key>Total Time</key><integer>757080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-06T14:46:37Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-01-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2A03CA00C3C82B3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/Warszawa/10%20Voyage%2034.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16609</key>
+		<dict>
+			<key>Track ID</key><integer>16609</integer>
+			<key>Name</key><string>Signify</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Warszawa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11483998</integer>
+			<key>Total Time</key><integer>340960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-04-06T14:45:30Z</date>
+			<key>Date Added</key><date>2013-04-14T19:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-01-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D63FA88198A7526C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/Users/musicman/Music/iTunes/iTunes%20Media/Music/Porcupine%20Tree/Warszawa/11%20Signify.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>71</integer>
+			<key>Playlist Persistent ID</key><string>05C84BB101935FA9</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16172</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16178</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16202</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16208</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16262</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16293</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16299</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16308</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16314</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16320</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16326</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16335</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16344</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16350</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16356</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16359</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16362</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16368</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16374</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16268</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16271</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16274</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16265</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16474</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16480</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16483</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16486</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16414</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16502</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16444</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16522</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16528</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16534</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16546</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16552</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16558</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16564</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16576</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16582</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16588</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16594</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16600</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16606</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16441</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Playlist ID</key><integer>102</integer>
+			<key>Playlist Persistent ID</key><string>68A6B92337FF54D2</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16172</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16178</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16202</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16208</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16262</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16293</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16296</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16299</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16308</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16314</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16320</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16326</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16335</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16344</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16350</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16356</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16359</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16362</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16368</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16374</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16268</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16271</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16274</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16265</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16474</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16480</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16483</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16486</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16414</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16502</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16444</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16522</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16528</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16534</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16546</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16552</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16558</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16564</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16576</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16582</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16588</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16594</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16600</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16606</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16441</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Playlist ID</key><integer>105</integer>
+			<key>Playlist Persistent ID</key><string>9C3FEDF34073AB52</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>TV Shows</string>
+			<key>Playlist ID</key><integer>108</integer>
+			<key>Playlist Persistent ID</key><string>C8CA440713F59E22</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Genius</string>
+			<key>Playlist ID</key><integer>120</integer>
+			<key>Playlist Persistent ID</key><string>7BAF5E3D5DD4C3D8</string>
+			<key>Distinguished Kind</key><integer>26</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Bowie</string>
+			<key>Playlist ID</key><integer>16234</integer>
+			<key>Playlist Persistent ID</key><string>D970982147EBEE09</string>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Gray</string>
+			<key>Playlist ID</key><integer>16223</integer>
+			<key>Playlist Persistent ID</key><string>7F332103E0B17C48</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16202</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16208</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16172</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16178</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16125</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

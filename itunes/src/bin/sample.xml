@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+ 
+<address-book>
+  <name>Fred Fox</name>
+  <phone>1234567</phone>
+  <address type="postal">PO Box 987, Anytown, EV</address>
+  <address type="street">34 Main St, Anytown, EV</address>
+</address-book>
