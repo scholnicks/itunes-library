@@ -61,6 +61,9 @@ class ItunesItem(object):
         key = latin1_to_ascii(key)
         return self.itunesAttibutes.get(key,None)
 
+    def keys(self):
+        return self.itunesAttibutes.keys()
+
     @property
     def title(self):
         return self.itunesAttibutes.get('Name',None)
