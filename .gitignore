@@ -4,4 +4,6 @@
 .metadata
 perl-library
 RemoteSystemsTempFiles
+dist
+MANIFEST
 
