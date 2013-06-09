@@ -1,7 +1,14 @@
-"""
+"""Library - Represents a complete iTunes Library
+
+(c) Steve Scholnick <steve@scholnick.net>
+MIT License
 
 See http://search.cpan.org/~dinomite/Mac-iTunes-Library-1.0/lib/Mac/iTunes/Library/XML.pm for Notes on the ridiculous format for the 
 iTunes Library XML file
+
+Thanks to https://github.com/dinomite for deciphering the iTunes Library XML format
+
+    https://github.com/scholnicks/itunes-library
 """
 import logging
 import xml.sax
@@ -14,7 +21,10 @@ INTEGER_TYPE    = 'integer'
 ITEM_ATTRIBUTES = (INTEGER_TYPE,STRING_TYPE,'date','data')
 
 class Parser(xml.sax.ContentHandler):
+    """Parses the iTunes XML file"""
+    
     def __init__(self):
+        """Constructor"""
         xml.sax.ContentHandler.__init__(self)
         self.stack         = []
         self.inPlayLists   = False
@@ -25,12 +35,14 @@ class Parser(xml.sax.ContentHandler):
         self.item          = None
 
     def parse(self,pathToXMLFile):
+        """parses the XML file passeed in"""
         self.filePath = pathToXMLFile
         self.lib = library.Library()
         xml.sax.parse(open(self.filePath,'r'), self)
         return self.lib
 
     def startElement(self, name, attrs):
+        """callback method for SAX parsing"""
         self.stack.append(name)
         
         if len(self.stack) == 1:
@@ -43,6 +55,7 @@ class Parser(xml.sax.ContentHandler):
                     self.item = library.Item()
     
     def endElement(self, name):
+        """callback method for SAX parsing"""
         depth = len(self.stack)
         self.stack.pop()
         
@@ -89,6 +102,7 @@ class Parser(xml.sax.ContentHandler):
                 self.bufferString = ''
                 
     def characters(self, content):
+        """callback method for SAX parsing"""
         if len(self.stack) == 3:
             if self.stack[-1] == 'key':
                 if content == 'Tracks':

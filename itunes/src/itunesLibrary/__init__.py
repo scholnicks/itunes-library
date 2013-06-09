@@ -1,4 +1,9 @@
-"""
+"""Library - Represents a complete iTunes Library
+
+(c) Steve Scholnick <steve@scholnick.net>
+MIT License
+
+    https://github.com/scholnicks/itunes-library
 """
 
 __author__ = "Steven Scholnick <steve@scholnick.net>"
