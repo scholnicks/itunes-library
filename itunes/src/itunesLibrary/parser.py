@@ -1,4 +1,4 @@
-"""Library - Represents a complete iTunes Library
+"""Parser - Parses the iTunes XML file
 
 (c) Steve Scholnick <steve@scholnick.net>
 MIT License
