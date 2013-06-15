@@ -8,6 +8,18 @@ def test_empty():
     lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"empty.xml"))
     assert 0 == len(lib)
     
+def test_applicationVersion():
+    lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"empty.xml"))
+    assert "11.0.2" == lib.applicationVersion
+    
+def test_minorVersion():
+    lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"empty.xml"))
+    assert "1" == lib.minorVersion
+    
+def test_majorVersion():
+    lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"empty.xml"))
+    assert "2" == lib.majorVersion
+    
 def test_artist():
     lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"10.xml"))
     assert 10 == len(lib)

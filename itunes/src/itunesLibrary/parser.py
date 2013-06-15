@@ -30,6 +30,9 @@ class Parser(xml.sax.ContentHandler):
         self.inPlayLists   = False
         self.inTracks      = False
         self.inMusicFolder = False
+        self.inMajorVersion = False
+        self.inMinorVersion = False
+        self.inApplicationVersion = False
         self.curKey        = ''
         self.bufferString  = ''
         self.item          = None
@@ -105,12 +108,27 @@ class Parser(xml.sax.ContentHandler):
         """callback method for SAX parsing"""
         if len(self.stack) == 3:
             if self.stack[-1] == 'key':
-                if content == 'Tracks':
+                if content == 'Application Version':
+                    self.inApplicationVersion = True
+                elif content == 'Major Version':
+                    self.inMajorVersion = True
+                elif content == 'Minor Version':
+                    self.inMinorVersion = True
+                elif content == 'Tracks':
                     self.inTracks = True
                 elif content == 'Playlists':
                     self.inPlayLists = True
             elif self.stack[-1] in ('integer','string','true','false'):
-                if self.inMusicFolder:
+                if self.inApplicationVersion:
+                    self.lib.applicationVersion = content
+                    self.inApplicationVersion = False
+                elif self.inMajorVersion:
+                    self.lib.majorVersion = content
+                    self.inMajorVersion = False
+                elif self.inMinorVersion:
+                    self.lib.minorVersion = content
+                    self.inMinorVersion = False
+                elif self.inMusicFolder:
                     self.bufferString += content if content else ''
         elif len(self.stack) == 5:
             if self.stack[-1] == 'key':
