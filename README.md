@@ -9,7 +9,7 @@ License : https://github.com/scholnicks/itunes-library/blob/master/documentation
 Example Code
 
 ```python
-import os,sys
+import os
 from itunesLibrary import library
 
 path = os.path.join(os.getenv("HOME"),"Music/iTunes/iTunes Music Library.xml")
