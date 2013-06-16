@@ -6,7 +6,7 @@ library will be **not** re-created verbatim.
 
 License : https://github.com/scholnicks/itunes-library/blob/master/documentation/license.txt
 
-Example Interactions with the Library
+Example Code
 
 ```python
 import os,sys
