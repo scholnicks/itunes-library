@@ -6,6 +6,8 @@ library will be **not** re-created verbatim.
 
 License : https://github.com/scholnicks/itunes-library/blob/master/documentation/license.txt
 
+Installation : pip install itunesLibrary
+
 Example Code
 
 ```python
