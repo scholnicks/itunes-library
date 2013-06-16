@@ -75,7 +75,7 @@ class ItunesItem(object):
         
     def setItunesAttribute(self,key,value):
         """Sets an iTunes attribute"""
-        key = latin1_to_ascii(key)
+        key = key
         try:
             self.itunesAttibutes[key] = latin1_to_ascii(value)
         except:
@@ -83,7 +83,7 @@ class ItunesItem(object):
             
     def getItunesAttribute(self,key):
         """Returns an iTunes attribute"""
-        key = latin1_to_ascii(key)
+        key = key
         return self.itunesAttibutes.get(key,None)
 
     def keys(self):

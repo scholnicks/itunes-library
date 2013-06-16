@@ -8,10 +8,10 @@ My File
 % time python large-library-parse.py
 2413
 
-real	3m12.529s
-user	3m9.469s
-sys	    0m0.864s
- 
+real	0m16.977s
+user	0m16.737s
+sys	    0m0.122s
+
 Machine: Old Macbook (late 2008, 2.4 GHz Duo, 4 GB RAM)
 """
 
