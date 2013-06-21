@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*- 
 
 import os
 from itunesLibrary import library
@@ -19,11 +20,42 @@ def test_minorVersion():
 def test_majorVersion():
     lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"empty.xml"))
     assert "2" == lib.majorVersion
+
+def test_playlists():
+    lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"10.xml"))
+    assert lib.playlists
+    
+def test_library_items():
+    lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"10.xml"))
+    assert lib.items
+    
+def test_playlist_items():
+    lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"10.xml"))
+    assert lib.playlists[0].items
+    
+def test_iter():
+    lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"10.xml"))
+    assert lib.__iter__()
+    
+def test_playlist_iter():
+    lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"10.xml"))
+    assert lib.__iter__().__iter__()
+    
+def test_length():
+    lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"10.xml"))
+    assert 10 == len(lib)
     
 def test_artist():
     lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"10.xml"))
-    assert 10 == len(lib)
     assert "David Bowie" == lib.items[0].artist
+    
+def test_album():
+    lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"10.xml"))
+    assert "The Next Day (Deluxe Version)" == lib.items[0].album
+    
+def test_title():
+    lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"10.xml"))
+    assert "The Next Day" == lib.items[0].title
     
 def test_getItemsForArtist():
     lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"10.xml"))
@@ -54,3 +86,9 @@ def test_getItemsById_Interger():
 def test_playlist():
     lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"111.xml"))
     assert lib.getPlaylist("Gray")
+
+def test_unicode_title():
+    lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"unicode.xml"))
+    item = lib.getItemsById("164")
+    assert item.title
+    assert item.artist == 'Blackfield'

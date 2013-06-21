@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*- 
+
 """
 My File
   Size: 4.4mb

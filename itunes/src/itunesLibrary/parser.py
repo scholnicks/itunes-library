@@ -10,7 +10,7 @@ Thanks to https://github.com/dinomite for deciphering the iTunes Library XML for
 
     https://github.com/scholnicks/itunes-library
 """
-import logging
+#import logging
 import xml.sax
 from itunesLibrary import library
 
@@ -98,7 +98,7 @@ class Parser(xml.sax.ContentHandler):
             if name == INTEGER_TYPE:
                 track = self.lib.getItemsById(self.bufferString)
                 if track:
-                    logging.debug("adding track " + str(track))
+                    #logging.debug("adding track " + str(track))
                     self.item.addItem(track)
                     
                 self.curKey       = ''
