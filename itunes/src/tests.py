@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*- 
-
 import os
 from itunesLibrary import library
 
@@ -69,8 +67,11 @@ def test_getItemsForArtist_Failure():
 def test_getItemsById():
     lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"10.xml"))
     item = lib.getItemsById("16116")
-    assert item
-    assert item.album == 'The Next Day (Deluxe Version)'
+    assert item.album == 'The Next Day (Deluxe Version)' and item.getItunesAttribute('Total Time') == '178474'
+    
+def test_totalTime():
+    lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"10.xml"))
+    item = lib.getItemsById("16116")
     assert item.getItunesAttribute('Total Time') == '178474'
     
 def test_getItemsById_Failure():
@@ -85,7 +86,8 @@ def test_getItemsById_Interger():
     
 def test_playlist():
     lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"111.xml"))
-    assert lib.getPlaylist("Gray")
+    playlist = lib.getPlaylist("Gray")
+    assert len(playlist)  # it has items
 
 def test_unicode_title():
     lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"unicode.xml"))

@@ -42,7 +42,7 @@ class Library(object):
     def getItemsById(self,trackId):
         """Returns an item based on its Track Id"""
         
-        trackId = str(trackId)
+        trackId = str(trackId)      # all keys are strs, allow for integers to be passsed in
         for item in self.items:
             if item.getItunesAttribute('Track ID') == trackId:
                 return item
@@ -79,7 +79,6 @@ class ItunesItem(object):
             
     def getItunesAttribute(self,key):
         """Returns an iTunes attribute"""
-        
         return self.itunesAttibutes.get(key,None)
         
     def keys(self):
@@ -106,11 +105,7 @@ class PlayList(ItunesItem):
 
     def __str__(self):
         """Returns a nice string representation"""
-        return unicode(self).encode('utf-8')   
-    
-    def __unicode__(self):
-        """Returns a nice string representation"""
-        return "{0} : {1}".format(self.title, len(self.items))          
+        return "{0} : {1}".format(self.title.encode('utf-8'), len(self.items))          
 
     def __iter__(self):
         """Allows for quick iteration through the items"""
@@ -139,8 +134,7 @@ class Item(ItunesItem):
 
     def __str__(self):
         """Returns a nice string representation"""
-        return unicode(self).encode('utf-8')   
-    
-    def __unicode__(self):
-        """Returns a nice string representation"""
-        return "{0} {1} {2}".format(self.artist, self.album, self.title)  
+        artist = self.artist.encode('utf-8') if self.artist else None
+        album  = self.album.encode('utf-8')  if self.album  else None
+        title  = self.title.encode('utf-8')  if self.title  else None
+        return "{0} {1} {2}".format(artist,album,title)  
