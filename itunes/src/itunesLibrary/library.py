@@ -58,7 +58,7 @@ class Library(object):
     
     def __iter__(self):
         """Allows for quick iteration through the items"""
-        return (i for i in self.items)
+        return iter(self.items)
     
     def __len__(self):
         """returns the number of items stored in the library"""
@@ -109,7 +109,7 @@ class PlayList(ItunesItem):
 
     def __iter__(self):
         """Allows for quick iteration through the items"""
-        return (i for i in self.items)
+        return iter(self.items)
 
     def __len__(self):
         """returns the number of items stored in this playlist"""
