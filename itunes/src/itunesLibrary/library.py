@@ -11,6 +11,7 @@ from abc import ABCMeta
 
 LOGGING_FILE_NAME = 'itunes-library.log'
 
+
 def parse(pathToXMLFile):
     """Main method for constructor a Library object"""
 
@@ -21,6 +22,7 @@ def parse(pathToXMLFile):
 
     from itunesLibrary import parser
     return parser.Parser().parse(pathToXMLFile)
+
 
 class Library(object):
     """Represents a complete iTunes Library"""
