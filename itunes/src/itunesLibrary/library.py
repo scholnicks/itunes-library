@@ -13,7 +13,7 @@ LOGGING_FILE_NAME = 'itunes-library.log'
 
 def parse(pathToXMLFile):
     """Main method for constructor a Library object"""
-    
+
     loggingFile = os.path.join(tempfile.gettempdir(),'itunes-library.log')
     if os.path.exists(loggingFile):
         os.remove(loggingFile)
@@ -21,33 +21,33 @@ def parse(pathToXMLFile):
 
     from itunesLibrary import parser
     return parser.Parser().parse(pathToXMLFile)
-    
+
 class Library(object):
     """Represents a complete iTunes Library"""
-    
+
     def __init__(self):
         """Constructor"""
         super(Library, self).__init__()
         self.playlists = []
         self.items     = []
-        
+
     def addPlaylist(self,playlist):
         """Adds a playlist"""
         self.playlists.append(playlist)
-        
+
     def addItem(self,item):
         """Adds an item"""
         self.items.append(item)
-        
+
     def getItemsById(self,trackId):
         """Returns an item based on its Track Id"""
-        
+
         trackId = str(trackId)      # all keys are strs, allow for integers to be passsed in
         for item in self.items:
             if item.getItunesAttribute('Track ID') == trackId:
                 return item
         return None
-        
+
     def getPlaylist(self,name):
         """Returns a Playlist based on its name. iTunes does allow multiple playlists with the same name"""
         return [p for p in self.playlists if p.title == name]
@@ -55,32 +55,32 @@ class Library(object):
     def getItemsForArtist(self,name):
         """Returns all items for an artist"""
         return [i for i in self.items if i.artist == name]
-    
+
     def __iter__(self):
         """Allows for quick iteration through the items"""
         return iter(self.items)
-    
+
     def __len__(self):
         """returns the number of items stored in the library"""
         return len(self.items)
-        
+
 class ItunesItem(object):
     """Abstract Base Class for iTunes items stored in the library"""
-    
+
     __metaclass__ = ABCMeta
-    
+
     def __init__(self):
         """Constructor"""
         self.itunesAttibutes = dict()
-        
+
     def setItunesAttribute(self,key,value):
         """Sets an iTunes attribute"""
         self.itunesAttibutes[key] = value
-            
+
     def getItunesAttribute(self,key):
         """Returns an iTunes attribute"""
         return self.itunesAttibutes.get(key,None)
-        
+
     def keys(self):
         """Returns all of the possible iTunes attribute keys"""
         return self.itunesAttibutes.keys()
@@ -93,7 +93,7 @@ class ItunesItem(object):
 
 class PlayList(ItunesItem):
     """an iTunes Playlist"""
-    
+
     def __init__(self):
         """Constructor"""
         super(PlayList, self).__init__()
@@ -105,7 +105,7 @@ class PlayList(ItunesItem):
 
     def __str__(self):
         """Returns a nice string representation"""
-        return "{0} : {1}".format(self.title.encode('utf-8'), len(self.items))          
+        return "{0}: {1}".format(self.title.encode('utf-8'), len(self.items))
 
     def __iter__(self):
         """Allows for quick iteration through the items"""
@@ -114,14 +114,14 @@ class PlayList(ItunesItem):
     def __len__(self):
         """returns the number of items stored in this playlist"""
         return len(self.items)
-    
+
 class Item(ItunesItem):
     """an item stored in the iTunes Playlist"""
 
     def __init__(self):
         """Constructor"""
         super(Item, self).__init__()
-    
+
     @property
     def artist(self):
         """Returns the title"""
@@ -137,4 +137,4 @@ class Item(ItunesItem):
         artist = self.artist.encode('utf-8') if self.artist else None
         album  = self.album.encode('utf-8')  if self.album  else None
         title  = self.title.encode('utf-8')  if self.title  else None
-        return "{0} {1} {2}".format(artist,album,title)  
+        return "{0} {1} {2}".format(artist,album,title)

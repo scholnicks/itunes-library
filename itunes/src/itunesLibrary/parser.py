@@ -3,7 +3,7 @@
 (c) Steve Scholnick <steve@scholnick.net>
 MIT License
 
-See http://search.cpan.org/~dinomite/Mac-iTunes-Library-1.0/lib/Mac/iTunes/Library/XML.pm for Notes on the ridiculous format for the 
+See http://search.cpan.org/~dinomite/Mac-iTunes-Library-1.0/lib/Mac/iTunes/Library/XML.pm for Notes on the ridiculous format for the
 iTunes Library XML file
 
 Thanks to https://github.com/dinomite for deciphering the iTunes Library XML format
@@ -22,7 +22,7 @@ ITEM_ATTRIBUTES = (INTEGER_TYPE,STRING_TYPE,'date','data')
 
 class Parser(xml.sax.ContentHandler):
     """Parses the iTunes XML file"""
-    
+
     def __init__(self):
         """Constructor"""
         xml.sax.ContentHandler.__init__(self)
@@ -46,7 +46,7 @@ class Parser(xml.sax.ContentHandler):
     def startElement(self, name, attrs):
         """callback method for SAX parsing"""
         self.stack.append(name)
-        
+
         if len(self.stack) == 1:
             self.lib.version = attrs.getValue('version')
         elif len(self.stack) == 4:
@@ -55,18 +55,18 @@ class Parser(xml.sax.ContentHandler):
                     self.item = library.PlayList()
                 else:
                     self.item = library.Item()
-    
+
     def endElement(self, name):
         """callback method for SAX parsing"""
         depth = len(self.stack)
         self.stack.pop()
-        
+
         if depth == 3:
             if name == DICT_TYPE:
                 self.inTracks = False
             elif name == ARRAY_TYPE:
                 self.inPlayLists = False
-                
+
             if self.inMusicFolder and name == STRING_TYPE:
                 self.lib.musicFolder = self.bufferString
                 self.inMusicFolder = False
@@ -78,7 +78,7 @@ class Parser(xml.sax.ContentHandler):
                     self.lib.addPlaylist(self.item)
                 else:
                     self.lib.addItem(self.item)
-                    
+
             if name == DICT_TYPE:
                 self.item = None
         elif depth == 5:
@@ -98,10 +98,10 @@ class Parser(xml.sax.ContentHandler):
                 if track:
                     logging.debug("adding track %s",track)
                     self.item.addItem(track)
-                    
+
                 self.curKey       = ''
                 self.bufferString = ''
-                
+
     def characters(self, content):
         """callback method for SAX parsing"""
         if len(self.stack) == 3:
@@ -138,5 +138,5 @@ class Parser(xml.sax.ContentHandler):
                 self.curKey += content
             elif self.stack[-1] in ('integer','string','date'):
                 self.bufferString += content if content else ''
-            
+
 
