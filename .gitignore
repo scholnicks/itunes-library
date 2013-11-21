@@ -8,3 +8,4 @@ RemoteSystemsTempFiles
 dist
 MANIFEST
 upload.sh
+.idea
