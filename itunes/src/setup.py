@@ -7,7 +7,6 @@ setup(
     version='1.0.5',
     packages=['itunesLibrary',],
     license='MIT',
-    long_description='Represents an iTunes library',
-    summary='Representation of an iTunes library'
+    long_description='Represents an iTunes library'
 )
 
