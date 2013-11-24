@@ -12,7 +12,7 @@ Thanks to https://github.com/dinomite for deciphering the iTunes Library XML for
 """
 import logging
 import xml.sax
-from itunesLibrary import library
+from . import library
 
 DICT_TYPE       = 'dict'
 ARRAY_TYPE      = 'array'

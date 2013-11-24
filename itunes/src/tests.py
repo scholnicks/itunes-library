@@ -79,7 +79,7 @@ def test_getItemsById_Failure():
     item = lib.getItemsById("-1")
     assert not item
 
-def test_getItemsById_Interger():
+def test_getItemsById_Integer():
     lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"10.xml"))
     item = lib.getItemsById(16116)
     assert item

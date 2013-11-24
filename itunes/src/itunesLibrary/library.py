@@ -20,7 +20,7 @@ def parse(pathToXMLFile):
         os.remove(loggingFile)
     logging.basicConfig(filename=loggingFile, level=logging.INFO)
 
-    from itunesLibrary import parser
+    from . import parser
     return parser.Parser().parse(pathToXMLFile)
 
 
@@ -44,14 +44,19 @@ class Library(object):
     def getItemsById(self,trackId):
         """Returns an item based on its Track Id"""
 
-        trackId = str(trackId)      # all keys are strs, allow for integers to be passsed in
+        trackId = str(trackId)      # all keys are strs, allow for integers to be passed in
         for item in self.items:
             if item.getItunesAttribute('Track ID') == trackId:
                 return item
         return None
 
     def getPlaylist(self,name):
-        """Returns a Playlist based on its name. iTunes does allow multiple playlists with the same name"""
+        """Returns a Playlist based on its name or None"""
+        playlist = self.getAllPlaylists(name)
+        return playlist[0] if playlist else None
+
+    def getAllPlaylists(self,name):
+        """Returns all playlists that match the name or an empty list"""
         return [p for p in self.playlists if p.title == name]
 
     def getItemsForArtist(self,name):
@@ -109,6 +114,10 @@ class PlayList(ItunesItem):
         """Returns a nice string representation"""
         return "{0}: {1}".format(self.title.encode('utf-8'), len(self.items))
 
+    def __repr__(self):
+        """Returns a possible internal representation of this object"""
+        return str(self.__dict__)
+
     def __iter__(self):
         """Allows for quick iteration through the items"""
         return iter(self.items)
@@ -134,9 +143,13 @@ class Item(ItunesItem):
         """Returns the album name"""
         return self.getItunesAttribute('Album')
 
+    def __repr__(self):
+        """Returns a possible internal representation of this object"""
+        return str(self.__dict__)
+
     def __str__(self):
         """Returns a nice string representation"""
-        artist = self.artist.encode('utf-8') if self.artist else None
-        album  = self.album.encode('utf-8')  if self.album  else None
-        title  = self.title.encode('utf-8')  if self.title  else None
+        artist = self.artist.encode('utf-8') if self.artist else ''
+        album  = self.album.encode('utf-8')  if self.album  else ''
+        title  = self.title.encode('utf-8')  if self.title  else ''
         return "{0} {1} {2}".format(artist,album,title)

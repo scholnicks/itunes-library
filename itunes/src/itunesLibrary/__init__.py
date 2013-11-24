@@ -1,4 +1,4 @@
-"""Library - Represents a complete iTunes Library
+"""
 
 (c) Steve Scholnick <steve@scholnick.net>
 MIT License
@@ -7,7 +7,7 @@ MIT License
 """
 
 __author__ = "Steven Scholnick <steve@scholnick.net>"
-__version__ = "1.0.0"
+__version__ = "1.0.5"
 __copyright__ = "Copyright (c) 2013- Steven Scholnick"
 __license__ = "MIT"
 
