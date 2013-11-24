@@ -27,7 +27,7 @@ for playlist in lib.playlists:
     for item in playlist.items:
         print item          # perform function on each item in the playlist
         
-# get a 1 or more playlist by name
+# get a single playlist
 playlist = lib.getPlaylist("Gray")
 
 # get a list of all of the David Bowie songs 
