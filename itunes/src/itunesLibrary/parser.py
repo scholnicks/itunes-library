@@ -26,16 +26,16 @@ class Parser(xml.sax.ContentHandler):
     def __init__(self):
         """Constructor"""
         xml.sax.ContentHandler.__init__(self)
-        self.stack         = []
-        self.inPlayLists   = False
-        self.inTracks      = False
-        self.inMusicFolder = False
-        self.inMajorVersion = False
-        self.inMinorVersion = False
+        self.stack                = []
+        self.inPlayLists          = False
+        self.inTracks             = False
+        self.inMusicFolder        = False
+        self.inMajorVersion       = False
+        self.inMinorVersion       = False
         self.inApplicationVersion = False
-        self.curKey        = ''
-        self.bufferString  = ''
-        self.item          = None
+        self.curKey               = ''
+        self.bufferString         = ''
+        self.item                 = None
 
     def parse(self,pathToXMLFile):
         """parses the XML file passed in"""
