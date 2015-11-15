@@ -6,7 +6,7 @@ import os,sys
 from itunesLibrary import library
 
 path = os.path.join(os.getenv("HOME"),"Music/iTunes/iTunes Music Library.xml")
-lib = library.parse(path)
+lib = library.parse(path,False)
 
 musicItems = set(lib.getPlaylist("Music").items)
 
@@ -16,6 +16,6 @@ for name in ("Steve","Laurel","Christmas"):
 musicItems = sorted(list(musicItems),key=lambda k: (k.artist,k.title,k.album))
 
 for item in musicItems:
-    print("{0:35s} {1:40s} {2}".format(item.artist,item.title,item.album))
+    print(item)
 
 sys.exit(0)

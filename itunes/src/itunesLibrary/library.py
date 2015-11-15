@@ -12,7 +12,7 @@ from abc import ABCMeta
 LOGGING_FILE_NAME = 'itunes-library.log'
 
 
-def parse(pathToXMLFile):
+def parse(pathToXMLFile, ignoreRemoteSongs=True):
     """Main method for constructor a Library object"""
 
     loggingFile = os.path.join(tempfile.gettempdir(),'itunes-library.log')
@@ -21,17 +21,18 @@ def parse(pathToXMLFile):
     logging.basicConfig(filename=loggingFile, level=logging.INFO)
 
     from . import parser
-    return parser.Parser().parse(pathToXMLFile)
+    return parser.Parser().parse(pathToXMLFile,ignoreRemoteSongs)
 
 
 class Library(object):
     """Represents a complete iTunes Library"""
 
-    def __init__(self):
+    def __init__(self,ignoreRemoteSongs):
         """Constructor"""
         super(Library, self).__init__()
         self.playlists = []
         self.items     = []
+        self.ignoreRemoteSongs = ignoreRemoteSongs
 
     def addPlaylist(self,playlist):
         """Adds a playlist"""
@@ -39,6 +40,9 @@ class Library(object):
 
     def addItem(self,item):
         """Adds an item"""
+        if self.ignoreRemoteSongs and item.remote:
+            return
+
         self.items.append(item)
 
     def getItemsById(self,trackId):
@@ -97,6 +101,11 @@ class ItunesItem(object):
         """Returns the title"""
         return self.getItunesAttribute('Name')
 
+    @property
+    def remote(self):
+        '''returns if the song is remote'''
+        return self.getItunesAttribute('Track Type') == 'Remote'
+
 
 class PlayList(ItunesItem):
     """an iTunes Playlist"""
@@ -125,6 +134,7 @@ class PlayList(ItunesItem):
     def __len__(self):
         """returns the number of items stored in this playlist"""
         return len(self.items)
+
 
 class Item(ItunesItem):
     """an item stored in the iTunes Playlist"""
