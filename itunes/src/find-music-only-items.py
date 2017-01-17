@@ -6,7 +6,7 @@ import os,sys
 from itunesLibrary import library
 
 path = os.path.join(os.getenv("HOME"),"Music/iTunes/iTunes Music Library.xml")
-lib = library.parse(path,False)
+lib = library.parse(path,True)
 
 musicItems = set(lib.getPlaylist("Music").items)
 

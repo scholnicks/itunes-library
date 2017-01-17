@@ -6,8 +6,6 @@ itunes-library represents an iTunes Library. It allows the caller to retrieve it
 itunes-library is a port of Drew Stephen's excellent Perl module, http://search.cpan.org/~dinomite/Mac-iTunes-Library. The Perl
 library will be **not** re-created verbatim.
 
-License : http://www.scholnick.net/license.txt
-
 Installation : pip install itunesLibrary
 
 Example Code
@@ -39,3 +37,7 @@ single_song = lib.getItemsById("16116")
 # get the iTunes application version
 print lib.applicationVersion
 ```
+
+&copy; Steve Scholnick <scholnicks@gmail.com>
+
+MIT License, see http://www.scholnick.net/license.txt

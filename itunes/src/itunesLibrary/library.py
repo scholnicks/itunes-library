@@ -47,12 +47,8 @@ class Library(object):
 
     def getItemsById(self,trackId):
         """Returns an item based on its Track Id"""
-
         trackId = str(trackId)      # all keys are strs, allow for integers to be passed in
-        for item in self.items:
-            if item.getItunesAttribute('Track ID') == trackId:
-                return item
-        return None
+        return next((i for i in self.items if i.getItunesAttribute('Track ID') == trackId),None)
 
     def getPlaylist(self,name):
         """Returns a Playlist based on its name or None"""
