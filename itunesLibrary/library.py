@@ -6,20 +6,11 @@ MIT License
     https://github.com/scholnicks/itunes-library
 """
 
-import logging, os, tempfile
+import os
 from abc import ABCMeta
-
-LOGGING_FILE_NAME = 'itunes-library.log'
-
 
 def parse(pathToXMLFile, ignoreRemoteSongs=True):
     """Main method for constructor a Library object"""
-
-    loggingFile = os.path.join(tempfile.gettempdir(),'itunes-library.log')
-    if os.path.exists(loggingFile):
-        os.remove(loggingFile)
-    logging.basicConfig(filename=loggingFile, level=logging.INFO)
-
     from . import parser
     return parser.Parser().parse(pathToXMLFile,ignoreRemoteSongs)
 

@@ -1,7 +1,7 @@
 import os
 from itunesLibrary import library
 
-SAMPLE_DATA_DIRECTORY = "../../sample-data/"
+SAMPLE_DATA_DIRECTORY = "./sample-data/"
 
 def test_empty():
     lib = library.parse(os.path.join(SAMPLE_DATA_DIRECTORY,"empty.xml"))

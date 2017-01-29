@@ -1,11 +1,8 @@
 *.swp
 *.pyc
 *.pyo
-.metadata
-.settings
-perl-library
-RemoteSystemsTempFiles
+*.java
+itunesLibrary.egg-info
 dist
-MANIFEST
-upload.sh
-.idea
+*.sh
+sample-data

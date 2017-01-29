@@ -1,9 +1,9 @@
-itunes-library
+itunesLibrary
 ==============
 
-itunes-library represents an iTunes Library. It allows the caller to retrieve items, playlists, etc.
+itunesLibrary represents an iTunes Library. It allows the caller to retrieve items, playlists, etc.
 
-itunes-library is a port of Drew Stephen's excellent Perl module, http://search.cpan.org/~dinomite/Mac-iTunes-Library. The Perl
+itunesLibrary is a port of Drew Stephen's excellent Perl module, http://search.cpan.org/~dinomite/Mac-itunesLibrary. The Perl
 library will be **not** re-created verbatim.
 
 Installation : pip install itunesLibrary
@@ -23,7 +23,7 @@ print len(lib)    # number of items stored
 
 for playlist in lib.playlists:
     for item in playlist.items:
-        print item          # perform function on each item in the playlist
+        print(item)          # perform function on each item in the playlist
 
 # get a single playlist
 playlist = lib.getPlaylist("Gray")
