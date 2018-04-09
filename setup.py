@@ -1,9 +1,9 @@
-from distutils.core import setup
+from setuptools import setup
 
 
 setup(
     name='iTunesLibrary',
-    version='1.1.0',
+    version='1.1.1',
     author='Steven Scholnick',
     author_email='scholnicks@gmail.com',
     description="Represents an iTunes library",

@@ -6,7 +6,6 @@ MIT License
     https://github.com/scholnicks/itunes-library
 """
 
-import os
 from abc import ABCMeta
 
 def parse(pathToXMLFile, ignoreRemoteSongs=True):
@@ -37,7 +36,7 @@ class Library(object):
         self.items.append(item)
 
     def getItemsById(self,trackId):
-        """Returns an item based on its Track Id"""
+        """Returns an item based on its Track Idor None"""
         trackId = str(trackId)      # all keys are strs, allow for integers to be passed in
         return next((i for i in self.items if i.getItunesAttribute('Track ID') == trackId),None)
 
@@ -51,7 +50,7 @@ class Library(object):
         return [p for p in self.playlists if p.title == name]
 
     def getItemsForArtist(self,name):
-        """Returns all items for an artist"""
+        """Returns all items for an artist as a List"""
         return [i for i in self.items if i.artist == name]
 
     def __iter__(self):
@@ -61,6 +60,7 @@ class Library(object):
     def __len__(self):
         """returns the number of items stored in the library"""
         return len(self.items)
+
 
 class ItunesItem(object):
     """Abstract Base Class for iTunes items stored in the library"""
