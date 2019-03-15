@@ -40,4 +40,4 @@ print lib.applicationVersion
 
 &copy; Steve Scholnick <scholnicks@gmail.com>
 
-MIT License, see http://www.scholnick.net/license.txt
+MIT License, see https://scholnick.net/license.txt

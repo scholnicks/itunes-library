@@ -1,6 +1,6 @@
 """Library - Represents a complete iTunes Library
 
-(c) Steve Scholnick <steve@scholnick.net>
+(c) Steve Scholnick <scholnicks@gmail.com>
 MIT License
 
     https://github.com/scholnicks/itunes-library

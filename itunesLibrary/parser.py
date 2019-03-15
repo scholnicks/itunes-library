@@ -1,6 +1,6 @@
 """Parser - Parses the iTunes XML file
 
-(c) Steve Scholnick <steve@scholnick.net>
+(c) Steve Scholnick <scholnicks@gmail.com>
 MIT License
 
 See http://search.cpan.org/~dinomite/Mac-iTunes-Library-1.0/lib/Mac/iTunes/Library/XML.pm for Notes on the ridiculous format for the
