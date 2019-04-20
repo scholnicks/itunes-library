@@ -11,7 +11,6 @@ Thanks to https://github.com/dinomite for deciphering the iTunes Library XML for
     https://github.com/scholnicks/itunes-library
 """
 
-
 import xml.sax
 from . import library
 
