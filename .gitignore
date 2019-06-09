@@ -2,7 +2,9 @@
 *.pyc
 *.pyo
 *.java
-itunesLibrary.egg-info
+*.egg-info
 dist
 *.sh
 sample-data
+build
+MANIFEST
