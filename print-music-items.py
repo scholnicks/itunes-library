@@ -1,7 +1,6 @@
 #! /usr/bin/env python -B
 # -*- coding: utf-8 -*-
 
-from __future__ import print_function
 import os,sys
 from itunesLibrary import library
 

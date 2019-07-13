@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='iTunesLibrary',
-    version='1.1.2',
+    version='1.1.3',
     author='Steven Scholnick',
     author_email='scholnicks@gmail.com',
     description="Represents an iTunes library",
@@ -20,8 +20,7 @@ setuptools.setup(
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Topic :: Utilities',
-        'Programming Language :: Python :: 2.7',
-        'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.7',
         'License :: OSI Approved :: MIT License'
     ]
 )
