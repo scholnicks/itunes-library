@@ -3,7 +3,7 @@ itunesLibrary
 
 itunesLibrary represents an iTunes Library. It allows the caller to retrieve items, playlists, etc.
 
-itunesLibrary is a port of Drew Stephen's excellent Perl module, http://search.cpan.org/~dinomite/Mac-itunesLibrary. The Perl
+itunesLibrary is a port of Drew Stephen's excellent Perl module, https://github.com/dinomite/Mac-iTunes-Library. The Perl
 library will be **not** re-created verbatim.
 
 Installation : pip install itunesLibrary
