@@ -35,7 +35,7 @@ bowie_items = lib.getItemsForArtist("David Bowie")
 single_song = lib.getItemsById("16116")
 
 # get the iTunes application version
-print lib.applicationVersion
+print(lib.applicationVersion)
 ```
 
 &copy; Steve Scholnick <scholnicks@gmail.com>
