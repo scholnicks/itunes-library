@@ -146,7 +146,7 @@ class Item(ItunesItem):
 
     def __str__(self):
         """Returns a nice string representation"""
-        artist = self.artist.encode('utf-8') if self.artist else ''
-        album  = self.album.encode('utf-8')  if self.album  else ''
-        title  = self.title.encode('utf-8')  if self.title  else ''
+        artist = self.artist if self.artist else ''
+        album  = self.album  if self.album  else ''
+        title  = self.title  if self.title  else ''
         return "{0} {1} {2}".format(artist,album,title)
