@@ -40,7 +40,7 @@ class Parser(xml.sax.ContentHandler):
     def parse(self,pathToXMLFile,ignoreRemoteSongs):
         """parses the XML file passed in"""
         self.lib = library.Library(ignoreRemoteSongs)
-        xml.sax.parse(open(pathToXMLFile,'r'), self)
+        xml.sax.parse(open(pathToXMLFile,'r', encoding="utf8"), self)
         return self.lib
 
     def startElement(self, name, attrs):
