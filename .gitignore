@@ -1,10 +1,7 @@
 *.swp
 *.pyc
 *.pyo
-*.java
 *.egg-info
 dist
-*.sh
-sample-data
 build
 MANIFEST

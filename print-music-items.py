@@ -1,6 +1,8 @@
 #! /usr/bin/env python -B
 # -*- coding: utf-8 -*-
 
+# Simple test script that print all items from ~/Music/iTunes/iTunes Music Library.xml
+
 import os,sys
 from itunesLibrary import library
 
