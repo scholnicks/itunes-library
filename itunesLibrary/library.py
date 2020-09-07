@@ -1,4 +1,5 @@
-"""Library - Represents a complete iTunes Library
+"""
+Library - Represents a complete iTunes Library
 
 (c) Steve Scholnick <scholnicks@gmail.com>
 MIT License
@@ -36,8 +37,8 @@ class Library(object):
         self.items.append(item)
 
     def getItemsById(self,trackId):
-        """Returns an item based on its Track Idor None"""
-        trackId = str(trackId)      # all keys are strs, allow for integers to be passed in
+        """Returns an item based on its Track Id or None"""
+        trackId = str(trackId)      # all keys are strings, allow for integers to be passed in
         return next((i for i in self.items if i.getItunesAttribute('Track ID') == trackId),None)
 
     def getPlaylist(self,name):
@@ -69,19 +70,19 @@ class ItunesItem(object):
 
     def __init__(self):
         """Constructor"""
-        self.itunesAttibutes = dict()
+        self.itunesAttributes = dict()
 
     def setItunesAttribute(self,key,value):
         """Sets an iTunes attribute"""
-        self.itunesAttibutes[key] = value
+        self.itunesAttributes[key] = value
 
     def getItunesAttribute(self,key):
         """Returns an iTunes attribute"""
-        return self.itunesAttibutes.get(key,None)
+        return self.itunesAttributes.get(key,None)
 
     def keys(self):
         """Returns all of the possible iTunes attribute keys"""
-        return self.itunesAttibutes.keys()
+        return self.itunesAttributes.keys()
 
     @property
     def title(self):
@@ -90,7 +91,7 @@ class ItunesItem(object):
 
     @property
     def remote(self):
-        '''returns if the song is remote'''
+        """returns if the song is remote"""
         return self.getItunesAttribute('Track Type') == 'Remote'
 
 
@@ -108,7 +109,7 @@ class PlayList(ItunesItem):
 
     def __str__(self):
         """Returns a nice string representation"""
-        return "{0}: {1}".format(self.title.encode('utf-8'), len(self.items))
+        return "{}: {}".format(self.title.encode('utf-8'), len(self.items))
 
     def __repr__(self):
         """Returns a possible internal representation of this object"""
@@ -149,4 +150,4 @@ class Item(ItunesItem):
         artist = self.artist if self.artist else ''
         album  = self.album  if self.album  else ''
         title  = self.title  if self.title  else ''
-        return "{0} {1} {2}".format(artist,album,title)
+        return "{} {} {}".format(artist,album,title)

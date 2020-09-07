@@ -1,4 +1,5 @@
-"""Parser - Parses the iTunes XML file
+"""
+Parser - Parses the iTunes XML file
 
 (c) Steve Scholnick <scholnicks@gmail.com>
 MIT License

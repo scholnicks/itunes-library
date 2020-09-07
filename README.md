@@ -19,7 +19,7 @@ path = os.path.join(os.getenv("HOME"),"Music/iTunes/iTunes Music Library.xml")
 # must first parse...
 lib = library.parse(path)
 
-print len(lib)    # number of items stored
+print(len(lib))    # number of items stored
 
 for playlist in lib.playlists:
     for item in playlist.items:
