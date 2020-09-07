@@ -36,6 +36,7 @@ class Parser(xml.sax.ContentHandler):
         self.curKey               = ''
         self.bufferString         = ''
         self.item                 = None
+        self.lib                  = None
 
     def parse(self,pathToXMLFile,ignoreRemoteSongs):
         """parses the XML file passed in"""
