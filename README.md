@@ -42,6 +42,8 @@ single_song = lib.getItemsById("16116")
 print(lib.applicationVersion)
 ```
 
-&copy; Steve Scholnick <scholnicks@gmail.com>
+## Contributors
+* scholnicks@gmail.com
+* software@froissart.eu
 
 MIT License, see https://scholnick.net/license.txt
