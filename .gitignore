@@ -5,3 +5,8 @@
 dist
 build
 MANIFEST
+
+*.iml
+.idea
+.vscode
+
