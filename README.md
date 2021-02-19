@@ -28,6 +28,10 @@ for playlist in lib.playlists:
 # get a single playlist
 playlist = lib.getPlaylist("Gray")
 
+# check the playlist type
+assert(not playlist.is_smart())
+assert(not playlist.is_folder())
+
 # get a list of all of the David Bowie songs
 bowie_items = lib.getItemsForArtist("David Bowie")
 

@@ -107,6 +107,36 @@ class PlayList(ItunesItem):
         """Adds an item"""
         self.items.append(item)
 
+    def is_master(self):
+        """returns whether this playlist is the "master" playlist (i.e. the root "Library" playlist)"""
+        return self.itunesAttributes.get('Master', False)
+
+    def is_folder(self):
+        """returns whether this playlist is actually a folder of playlists"""
+        return self.itunesAttributes.get('Folder', False)
+
+    def is_distinguished(self):
+        """returns whether this playlist is a "distinguished" playlist
+           (e.g. "Purchases", "Podcasts", etc.)"""
+        disinguished_kind = self.itunesAttributes.get('Distinguished Kind', None)
+        return disinguished_kind is not None
+
+    def is_smart(self):
+        """returns whether this playlist is a "smart" (i.e. automatic) playlist"""
+        if self.is_folder():
+            return False
+
+        smart_attributes = self.itunesAttributes.get('Smart Criteria', None)
+        return smart_attributes is not None
+
+    def is_regular(self):
+        """returns whether this playlist is a "regular" playlist
+           (i.e. neither a folder, nor a smart playlist, nor a special one, etc.)"""
+        return not(   self.is_master()
+                   or self.is_folder()
+                   or self.is_smart()
+                   or self.is_distinguished())
+
     def __str__(self):
         """Returns a nice string representation"""
         return "{}: {}".format(self.title.encode('utf-8'), len(self.items))
