@@ -45,5 +45,3 @@ print(lib.applicationVersion)
 ## Contributors
 * scholnicks@gmail.com
 * software@froissart.eu
-
-MIT License, see https://scholnick.net/license.txt
