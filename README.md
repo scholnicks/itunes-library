@@ -1,4 +1,4 @@
-itunesLibrary
+# itunesLibrary
 ==============
 
 itunesLibrary represents an iTunes Library. It allows the caller to retrieve items, playlists, etc.
@@ -6,9 +6,12 @@ itunesLibrary represents an iTunes Library. It allows the caller to retrieve ite
 itunesLibrary is a port of Drew Stephen's excellent Perl module, https://github.com/dinomite/Mac-iTunes-Library. The Perl
 library will be **not** re-created verbatim.
 
-Installation : pip install itunesLibrary
+Installation :
+```bash
+pip install itunesLibrary
+```
 
-Example Code
+## Example Code
 
 ```python
 import os
