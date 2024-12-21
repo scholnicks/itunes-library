@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='iTunesLibrary',
-    version='1.2.0',
+    version='1.2.1',
     author='Steven Scholnick',
     author_email='scholnicks@gmail.com',
     description="Represents an iTunes library",
