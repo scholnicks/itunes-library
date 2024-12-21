@@ -1,3 +1,9 @@
+# vi: set syntax=python ts=4 sw=4 sts=4 et ff=unix ai si :
+
+# To run
+#   pip install nose2 && nose2 -v
+# See https://docs.nose2.io/en/latest/
+
 import os
 from itunesLibrary import library
 

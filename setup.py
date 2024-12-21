@@ -1,3 +1,5 @@
+# vi: set syntax=python ts=4 sw=4 sts=4 et ff=unix ai si :
+
 import setuptools
 
 with open("README.md", "r") as fh:
@@ -20,7 +22,7 @@ setuptools.setup(
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Topic :: Utilities',
-        'Programming Language :: Python :: 3.11.6',
+        'Programming Language :: Python :: 3.13.1',
         'License :: OSI Approved :: MIT License'
     ]
 )

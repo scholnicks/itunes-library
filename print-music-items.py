@@ -1,5 +1,5 @@
 #! /usr/bin/env python -B
-# -*- coding: utf-8 -*-
+# vi: set syntax=python ts=4 sw=4 sts=4 et ff=unix ai si :
 
 # Simple test script that print all items from ~/Music/iTunes/iTunes Music Library.xml
 
