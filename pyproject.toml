@@ -1,0 +1,37 @@
+# vi: set syntax=toml ts=4 sw=4 sts=4 et ff=unix ai si :
+
+[project]
+name = "iTunesLibrary"
+version = "1.2.2"
+description = "itunesLibrary represents an iTunes Library."
+authors = [
+    {name = "Steve Scholnick",email = "scholnicks@gmail.com"}
+]
+readme = "README.md"
+license="MIT"
+license-files = ["LICENCSE"]
+requires-python = ">=3.13"
+dependencies = [
+    "docopt-ng (>=0.9.0,<0.10.0)"
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3.13",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Utilities"
+]
+keywords = ["iTunes", "Apple", "Music", "Library", "XML"]
+
+[project.urls]
+Homepage = "https://pypi.org/project/iTunesLibrary/"
+Repository = "https://github.com/scholnicks/itunes-library/"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (>=8.4.2,<9.0.0)"
+]
