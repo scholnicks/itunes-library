@@ -1,6 +1,7 @@
 # vi: set syntax=python ts=4 sw=4 sts=4 et ff=unix ai si :
 
 import os
+
 from itunesLibrary import library
 
 SAMPLE_DATA_DIRECTORY = "./sample-data/"

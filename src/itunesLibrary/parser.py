@@ -15,6 +15,7 @@ Thanks to https://github.com/dinomite for deciphering the iTunes Library XML for
 """
 
 import xml.sax
+
 from . import library
 
 DICT_TYPE = "dict"

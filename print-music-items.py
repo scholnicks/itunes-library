@@ -3,7 +3,9 @@
 
 # Simple test script that print all items from ~/Music/iTunes/iTunes Music Library.xml
 
-import os, sys
+import os
+import sys
+
 from itunesLibrary import library
 
 path = os.path.join(os.getenv("HOME"), "Music/iTunes/iTunes Music Library.xml")
