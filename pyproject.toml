@@ -1,6 +1,6 @@
 [project]
 name = "iTunesLibrary"
-version = "1.2.2"
+version = "1.2.3"
 description = "itunesLibrary represents an iTunes Library."
 authors = [{ name = "Steve Scholnick", email = "scholnicks@gmail.com" }]
 requires-python = ">=3.14"
