@@ -17,23 +17,23 @@ pip install itunesLibrary
 import os
 from itunesLibrary import library
 
-path = os.path.join(os.getenv("HOME"),"Music/iTunes/iTunes Music Library.xml")
+path = os.path.join(os.getenv("HOME"), "Music/iTunes/iTunes Music Library.xml")
 
 # must first parse...
 lib = library.parse(path)
 
-print(len(lib))    # number of items stored
+print(len(lib))  # number of items stored
 
 for playlist in lib.playlists:
     for item in playlist.items:
-        print(item)          # perform function on each item in the playlist
+        print(item)  # perform function on each item in the playlist
 
 # get a single playlist
 playlist = lib.getPlaylist("Gray")
 
 # check the playlist type
-assert(not playlist.is_smart())
-assert(not playlist.is_folder())
+assert not playlist.is_smart()
+assert not playlist.is_folder()
 
 # get a list of all of the David Bowie songs
 bowie_items = lib.getItemsForArtist("David Bowie")
